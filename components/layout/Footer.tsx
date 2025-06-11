@@ -3,11 +3,11 @@ import { SOCIAL_LINKS, NAVIGATION_ITEMS } from '@/lib/constants';
 
 export default function Footer() {
   return (
-    <footer className="mt-32 border-t border-gray-800">
+    <footer className="mt-32 border-t border-gray-800 bg-black">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">О Нуллианстве</h3>
+            <h3 className="text-lg font-semibold mb-4 text-white">О Нуллианстве</h3>
             <p className="text-gray-400">
               Первая в мире научная Open-Source религия, основанная на любознательности 
               и критическом мышлении.
@@ -15,7 +15,7 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="text-lg font-semibold mb-4">Навигация</h3>
+            <h3 className="text-lg font-semibold mb-4 text-white">Навигация</h3>
             <ul className="space-y-2">
               {NAVIGATION_ITEMS.map((item) => (
                 <li key={item.href}>
@@ -31,7 +31,7 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="text-lg font-semibold mb-4">Присоединяйтесь</h3>
+            <h3 className="text-lg font-semibold mb-4 text-white">Присоединяйтесь</h3>
             <div className="space-y-2">
               <a
                 href={SOCIAL_LINKS.github}

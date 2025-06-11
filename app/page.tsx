@@ -4,7 +4,7 @@ import Hero from '@/components/features/Hero';
 
 export default function Home() {
   return (
-    <>
+    <div className="min-h-screen bg-black">
       <Navigation />
       <main className="pt-16">
         <Hero />
@@ -36,6 +36,6 @@ export default function Home() {
         </section>
       </main>
       <Footer />
-    </>
+    </div>
   );
 }
