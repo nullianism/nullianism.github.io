@@ -1,5 +1,4 @@
-import Navigation from '@/components/layout/Navigation';
-import Footer from '@/components/layout/Footer';
+import { Navigation, Footer } from '@/components/layout';
 import Hero from '@/components/features/Hero';
 
 export default function Home() {
