@@ -2,42 +2,19 @@
 
 import { motion } from 'framer-motion';
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
+import dynamic from 'next/dynamic';
+
+// Динамически импортируем ParticleBackground только на клиенте
+const ParticleBackground = dynamic(
+  () => import('./ParticleBackground'),
+  { ssr: false }
+);
 
 export default function Hero() {
-  const [dimensions, setDimensions] = useState({ width: 1920, height: 1080 });
-
-  useEffect(() => {
-    setDimensions({
-      width: window.innerWidth,
-      height: window.innerHeight,
-    });
-  }, []);
-
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background particles effect */}
-      <div className="absolute inset-0">
-        {[...Array(50)].map((_, i) => (
-          <motion.div
-            key={i}
-            className="absolute w-1 h-1 bg-purple-400 rounded-full"
-            initial={{
-              x: Math.random() * dimensions.width,
-              y: Math.random() * dimensions.height,
-            }}
-            animate={{
-              x: Math.random() * dimensions.width,
-              y: Math.random() * dimensions.height,
-            }}
-            transition={{
-              duration: Math.random() * 20 + 10,
-              repeat: Infinity,
-              repeatType: "reverse",
-            }}
-          />
-        ))}
-      </div>
+      <ParticleBackground />
 
       <div className="relative z-10 text-center px-4">
         <motion.div

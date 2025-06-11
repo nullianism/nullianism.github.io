@@ -1,7 +1,6 @@
 import { Metadata } from 'next';
 import Navigation from '@/components/layout/Navigation';
 import Footer from '@/components/layout/Footer';
-import Link from 'next/link';
 import { SOCIAL_LINKS } from '@/lib/constants';
 
 export const metadata: Metadata = {
