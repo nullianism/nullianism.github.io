@@ -34,7 +34,7 @@ export default function Navigation() {
             </span>
           </Link>
 
-          <div className="hidden md:flex space-x-1">
+          <div className="hidden md:flex space-x-2">
             {NAVIGATION_ITEMS.map((item) => {
               const isActive = pathname === item.href;
               return (
