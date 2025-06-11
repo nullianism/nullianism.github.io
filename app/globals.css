@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --background: #0a0a0a;
@@ -8,13 +10,6 @@
   --primary-gold: #F59E0B;
   --gradient-cosmic: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #1e3a8a 100%);
   --gradient-nebula: linear-gradient(135deg, #6B46C1 0%, #3B82F6 100%);
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
 }
 
 * {
@@ -30,7 +25,7 @@ html {
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+  font-family: var(--font-inter), system-ui, -apple-system, sans-serif;
   min-height: 100vh;
   overflow-x: hidden;
 }
@@ -82,47 +77,6 @@ body {
   0% {
     background-position: 0% 50%;
   }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
-/* Utility classes */
-.animate-float {
-  animation: float 6s ease-in-out infinite;
-}
-
-.animate-pulse-slow {
-  animation: pulse 3s ease-in-out infinite;
-}
-
-.gradient-animate {
-  background-size: 200% 200%;
-  animation: gradient-shift 10s ease infinite;
-}
-
-/* Glassmorphism */
-.glass {
-  background: rgba(255, 255, 255, 0.05);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-}
-
-/* Glow effect */
-.glow {
-  box-shadow: 0 0 20px rgba(107, 70, 193, 0.5);
-}
-
-.glow-hover {
-  transition: all 0.3s ease;
-}
-
-.glow-hover:hover {
-  box-shadow: 0 0 30px rgba(107, 70, 193, 0.8);
-}
   50% {
     background-position: 100% 50%;
   }
