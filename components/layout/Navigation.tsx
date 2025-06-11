@@ -59,7 +59,7 @@ export default function Navigation() {
         <div className="absolute inset-0 bg-gradient-to-r from-purple-900/10 via-transparent to-blue-900/10"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
-            <Link href="/" className="flex items-center space-x-2 group" onClick={() => setIsMenuOpen(false)}>
+            <Link href="/" className="flex items-center gap-2 group" onClick={() => setIsMenuOpen(false)}>
               <motion.div
                 className="w-10 h-10 rounded-full bg-gradient-to-br from-purple-500 to-blue-500 flex items-center justify-center shadow-lg group-hover:shadow-purple-500/50 transition-shadow"
                 animate={{ rotate: 360 }}
@@ -67,13 +67,13 @@ export default function Navigation() {
               >
                 <span className="text-xl font-bold text-white">0</span>
               </motion.div>
-              <span className="font-bold text-xl bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
+              <span className="font-bold text-xl bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent ml-2">
                 Нуллианство
               </span>
             </Link>
 
             {/* Desktop Navigation */}
-            <nav className="hidden md:flex items-center gap-1">
+            <nav className="hidden md:flex items-center gap-4">
               {NAVIGATION_ITEMS.map((item) => {
                 const isActive = pathname === item.href;
                 return (
