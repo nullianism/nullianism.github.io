@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianisme",
+    "description": "De eerste wetenschappelijke Open-Source religie ter wereld"
+  },
+  "hero": {
+    "title": "Nullianisme",
+    "subtitle": "De eerste wetenschappelijke Open-Source religie ter wereld.",
+    "readManifesto": "Lees Manifest",
+    "joinCommunity": "Word lid van de gemeenschap"
+  },
+  "navigation": {
+    "home": "Home",
+    "manifesto": "Manifest",
+    "philosophy": "Filosofie",
+    "commandments": "Geboden",
+    "rituals": "Rituelen",
+    "community": "Gemeenschap",
+    "resources": "Bronnen"
+  },
+  "footer": {
+    "aboutTitle": "Over Nullianisme",
+    "aboutDescription": "De eerste wetenschappelijke Open-Source religie ter wereld gebaseerd op nieuwsgierigheid en kritisch denken.",
+    "navigationTitle": "Navigatie",
+    "joinTitle": "Doe met ons mee",
+    "copyright": "Nullianisme. Open Source religie.",
+    "builtWith": "Gebouwd met liefde voor kennis"
+  },
+  "community": {
+    "title": "Nullianisme Gemeenschap",
+    "howToBecomeTitle": "Hoe word je een Nulliaan?",
+    "howToBecomeText": "Als je de hier gepresenteerde ideeën deelt, beschouw jezelf dan al als een Nulliaan. Er zijn geen formele procedures vereist. Onze religie is gedecentraliseerd.",
+    "howToHelpTitle": "Hoe het project te helpen?",
+    "bulletShareStrong": "Deel",
+    "bulletShareBeforeLink": "deze site en",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "met vrienden.",
+    "bulletLikeStrong": "Geef likes",
+    "bulletLikeRest": "en laat reacties achter.",
+    "bulletSuggestStrong": "Stel je ideeën voor",
+    "bulletSuggestRest": "voor geboden en rituelen via {ISSUES} en {PULLS} in onze repository.",
+    "bulletSuggestIssues": "Issues",
+    "bulletSuggestPulls": "Pull Requests"
+  },
+  "resources": {
+    "title": "Bronnen",
+    "subtitle": "Hier zijn nuttige materialen en links.",
+    "mainMaterialsTitle": "Belangrijkste materialen",
+    "githubRepo": "GitHub-repository",
+    "videoPresentation": "Videopresentatie",
+    "recommendedLiteratureTitle": "Aanbevolen literatuur",
+    "recommendedPlaceholder": "De lijst met boeken en materialen zal door de gemeenschap worden toegevoegd."
+  },
+  "notFound": {
+    "title": "Pagina niet gevonden",
+    "description": "Het lijkt erop dat deze pagina nog niet is gematerialiseerd in ons universum van kennis.",
+    "backHome": "Terug naar home"
+  }
+}

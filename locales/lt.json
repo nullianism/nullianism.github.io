@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianizmas",
+    "description": "Pirmoji pasaulyje mokslinė atvirojo kodo religija"
+  },
+  "hero": {
+    "title": "Nullianizmas",
+    "subtitle": "Pirmoji pasaulyje mokslinė atvirojo kodo religija.",
+    "readManifesto": "Skaityti manifestą",
+    "joinCommunity": "Prisijungti prie bendruomenės"
+  },
+  "navigation": {
+    "home": "Pradžia",
+    "manifesto": "Manifestas",
+    "philosophy": "Filosofija",
+    "commandments": "Įsakymai",
+    "rituals": "Ritualai",
+    "community": "Bendruomenė",
+    "resources": "Ištekliai"
+  },
+  "footer": {
+    "aboutTitle": "Apie Nullianizmą",
+    "aboutDescription": "Pirmoji pasaulyje mokslinė atvirojo kodo religija, pagrįsta smalsumu ir kritiniu mąstymu.",
+    "navigationTitle": "Navigacija",
+    "joinTitle": "Prisijunkite prie mūsų",
+    "copyright": "Nullianizmas. Atvirojo kodo religija.",
+    "builtWith": "Sukurta su meile žinioms"
+  },
+  "community": {
+    "title": "Nullianizmo bendruomenė",
+    "howToBecomeTitle": "Kaip tapti Nullianu?",
+    "howToBecomeText": "Jei dalijatės čia pateiktomis idėjomis, laikykite save jau Nullianu. Formalios procedūros nereikalingos. Mūsų religija yra decentralizuota.",
+    "howToHelpTitle": "Kaip padėti projektui?",
+    "bulletShareStrong": "Dalinkitės",
+    "bulletShareBeforeLink": "šia svetaine ir",
+    "bulletShareVideoWord": "vaizdo įrašu",
+    "bulletShareAfterLink": "su draugais.",
+    "bulletLikeStrong": "Duokite patiktukus",
+    "bulletLikeRest": "ir palikite komentarus.",
+    "bulletSuggestStrong": "Pasiūlykite savo idėjas",
+    "bulletSuggestRest": "dėl įsakymų ir ritualų per {ISSUES} ir {PULLS} mūsų saugykloje.",
+    "bulletSuggestIssues": "Problemos",
+    "bulletSuggestPulls": "Prašymai traukti"
+  },
+  "resources": {
+    "title": "Ištekliai",
+    "subtitle": "Čia rasite naudingų medžiagų ir nuorodų.",
+    "mainMaterialsTitle": "Pagrindinės medžiagos",
+    "githubRepo": "GitHub saugykla",
+    "videoPresentation": "Vaizdo pristatymas",
+    "recommendedLiteratureTitle": "Rekomenduojama literatūra",
+    "recommendedPlaceholder": "Knygų ir medžiagų sąrašą pridės bendruomenė."
+  },
+  "notFound": {
+    "title": "Puslapis nerastas",
+    "description": "Atrodo, kad šis puslapis dar nėra materializavęsis mūsų žinių visatoje.",
+    "backHome": "Grįžti į pradžią"
+  }
+}

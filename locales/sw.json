@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianismu",
+    "description": "Dini ya kwanza ya kisayansi ya Chanzo Huria duniani"
+  },
+  "hero": {
+    "title": "Nullianismu",
+    "subtitle": "Dini ya kwanza ya kisayansi ya Chanzo Huria duniani.",
+    "readManifesto": "Soma Manifesto",
+    "joinCommunity": "Jiunge na Jamii"
+  },
+  "navigation": {
+    "home": "Nyumbani",
+    "manifesto": "Manifesto",
+    "philosophy": "Falsafa",
+    "commandments": "Amri",
+    "rituals": "Ibada",
+    "community": "Jamii",
+    "resources": "Rasilimali"
+  },
+  "footer": {
+    "aboutTitle": "Kuhusu Nullianismu",
+    "aboutDescription": "Dini ya kwanza ya kisayansi ya Chanzo Huria duniani inayotokana na udadisi na fikra muhimu.",
+    "navigationTitle": "Urambazaji",
+    "joinTitle": "Jiunge Nasi",
+    "copyright": "Nullianismu. Dini ya Chanzo Huria.",
+    "builtWith": "Imetengenezwa kwa upendo wa maarifa"
+  },
+  "community": {
+    "title": "Jamii ya Nullianismu",
+    "howToBecomeTitle": "Jinsi ya kuwa Nullian?",
+    "howToBecomeText": "Ikiwa unashiriki mawazo yaliyowasilishwa hapa, jichukulie tayari kama Nullian. Hakuna taratibu rasmi zinazohitajika. Dini yetu imepangwa kwa njia isiyo ya kati.",
+    "howToHelpTitle": "Jinsi ya kusaidia mradi?",
+    "bulletShareStrong": "Shiriki",
+    "bulletShareBeforeLink": "tovuti hii na",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "na marafiki.",
+    "bulletLikeStrong": "Toa alama za kupenda",
+    "bulletLikeRest": "na acha maoni.",
+    "bulletSuggestStrong": "Pendekeza mawazo yako",
+    "bulletSuggestRest": "kwa amri na ibada kupitia {ISSUES} na {PULLS} katika hazina yetu.",
+    "bulletSuggestIssues": "Masuala",
+    "bulletSuggestPulls": "Ombi la Kuvuta"
+  },
+  "resources": {
+    "title": "Rasilimali",
+    "subtitle": "Hapa kuna vifaa muhimu na viungo.",
+    "mainMaterialsTitle": "Vifaa muhimu",
+    "githubRepo": "Hazina ya GitHub",
+    "videoPresentation": "Uwasilishaji wa video",
+    "recommendedLiteratureTitle": "Fasihi iliyopendekezwa",
+    "recommendedPlaceholder": "Orodha ya vitabu na vifaa itaongezwa na jamii."
+  },
+  "notFound": {
+    "title": "Ukurasa haujapatikana",
+    "description": "Inaonekana kama ukurasa huu bado haujajitokeza katika ulimwengu wetu wa maarifa.",
+    "backHome": "Rudi nyumbani"
+  }
+}

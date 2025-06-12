@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Нуліянства",
+    "description": "Першае ў свеце навуковае рэлігійнае Open-Source"
+  },
+  "hero": {
+    "title": "Нуліянства",
+    "subtitle": "Першае ў свеце навуковае рэлігійнае Open-Source.",
+    "readManifesto": "Прачытайце Маніфест",
+    "joinCommunity": "Далучыцца да Супольнасці"
+  },
+  "navigation": {
+    "home": "Галоўная",
+    "manifesto": "Маніфест",
+    "philosophy": "Філасофія",
+    "commandments": "Запаведзі",
+    "rituals": "Рытуалы",
+    "community": "Супольнасць",
+    "resources": "Рэсурсы"
+  },
+  "footer": {
+    "aboutTitle": "Пра Нуліянства",
+    "aboutDescription": "Першае ў свеце навуковае рэлігійнае Open-Source, заснаванае на цікаўнасці і крытычным мысленні.",
+    "navigationTitle": "Навігацыя",
+    "joinTitle": "Далучыцца да нас",
+    "copyright": "Нуліянства. Рэлігія Open Source.",
+    "builtWith": "Створана з любоўю да ведаў"
+  },
+  "community": {
+    "title": "Супольнасць Нуліянства",
+    "howToBecomeTitle": "Як стаць нуліянцам?",
+    "howToBecomeText": "Калі вы падзяляеце ідэі, прадстаўленыя тут, лічыце сябе ўжо нуліянцам. Ніякіх фармальных працэдур не патрабуецца. Наша рэлігія дэцэнтралізаваная.",
+    "howToHelpTitle": "Як дапамагчы праекту?",
+    "bulletShareStrong": "Падзяліцеся",
+    "bulletShareBeforeLink": "гэтым сайтам і",
+    "bulletShareVideoWord": "відэа",
+    "bulletShareAfterLink": "з сябрамі.",
+    "bulletLikeStrong": "Ставіце лайкі",
+    "bulletLikeRest": "і пакідайце каментары.",
+    "bulletSuggestStrong": "Прапановы вашых ідэй",
+    "bulletSuggestRest": "для запаведзяў і рытуалаў праз {ISSUES} і {PULLS} у нашым рэпазітарыі.",
+    "bulletSuggestIssues": "Праблемы",
+    "bulletSuggestPulls": "Запыты на змены"
+  },
+  "resources": {
+    "title": "Рэсурсы",
+    "subtitle": "Тут карысныя матэрыялы і спасылкі.",
+    "mainMaterialsTitle": "Асноўныя матэрыялы",
+    "githubRepo": "Рэпазітар GitHub",
+    "videoPresentation": "Відэа-прэзентацыя",
+    "recommendedLiteratureTitle": "Рэкамендаваная літаратура",
+    "recommendedPlaceholder": "Спіс кніг і матэрыялаў будзе дададзены супольнасцю."
+  },
+  "notFound": {
+    "title": "Старонка не знойдзена",
+    "description": "Выглядае, што гэтая старонка яшчэ не матэрыялізавалася ў нашай сусвеце ведаў.",
+    "backHome": "Вярнуцца на галоўную"
+  }
+}

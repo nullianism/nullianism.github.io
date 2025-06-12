@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianism",
+    "description": "دۇنيادىكى تۇنجى ئىلمىي ئوچۇق-مەنبە دىن"
+  },
+  "hero": {
+    "title": "Nullianism",
+    "subtitle": "دۇنيادىكى تۇنجى ئىلمىي ئوچۇق-مەنبە دىن.",
+    "readManifesto": "مانىپېستىنى ئوقۇڭ",
+    "joinCommunity": "جەمئىيەتكە قوشۇلۇڭ"
+  },
+  "navigation": {
+    "home": "باش بەت",
+    "manifesto": "مانىپېستو",
+    "philosophy": "پىلسوپىيە",
+    "commandments": "بۇيرۇقلىرى",
+    "rituals": "مەرەسىملەر",
+    "community": "جەمئىيەت",
+    "resources": "مەنبەلەر"
+  },
+  "footer": {
+    "aboutTitle": "Nullianism ھەققىدە",
+    "aboutDescription": "قىزىقىش ۋە تەنتەربىيە پىكىر يۈرگۈزۈش ئاساسىدىكى دۇنيادىكى تۇنجى ئوچۇق-مەنبە دىن.",
+    "navigationTitle": "يول باشلاش",
+    "joinTitle": "بىزگە قوشۇلۇڭ",
+    "copyright": "Nullianism. ئوچۇق مەنبە دىن.",
+    "builtWith": "بىلىمگە بولغان مۇھەببەت بىلەن قۇرۇلغان"
+  },
+  "community": {
+    "title": "Nullianism جەمئىيىتى",
+    "howToBecomeTitle": "قانداق قىلىپ Nullian بولۇشقا بولىدۇ؟",
+    "howToBecomeText": "ئەگەر بۇ يەردە بايان قىلىنغان پىكىرلەرنى ئورتاقلاشسىڭىز، ئۆزىڭىزنى ئاللىقاچان بىر Nullian دەپ قارىغىلى بولىدۇ. ھېچقانداق رەسمىي جەريانلار تەلەپ قىلىنمايدۇ. بىزنىڭ دىنىمىز تارقىقىچ.",
+    "howToHelpTitle": "پروژېكتقا قانداق ياردەم قىلىشقا بولىدۇ؟",
+    "bulletShareStrong": "ھەمبەھىر قىلىڭ",
+    "bulletShareBeforeLink": "بۇ توربەتنى ۋە",
+    "bulletShareVideoWord": "سىن",
+    "bulletShareAfterLink": "دوستلىرىڭىز بىلەن.",
+    "bulletLikeStrong": "ياقتۇرۇش بېرىڭ",
+    "bulletLikeRest": "ۋە باھا قالدۇرۇڭ.",
+    "bulletSuggestStrong": "پىكىرلىرىڭىزنى تەكلىپ قىلىڭ",
+    "bulletSuggestRest": "بۇيرۇق ۋە مەرەسىملەر ئۈچۈن {ISSUES} ۋە {PULLS} ئارقىلىق بىزنىڭ رېپوزىتورىيەمىزگە.",
+    "bulletSuggestIssues": "مەسىلىلەر",
+    "bulletSuggestPulls": "تارتىش تەلەپلىرى"
+  },
+  "resources": {
+    "title": "مەنبەلەر",
+    "subtitle": "بۇ يەردە پايدىلىق ماتېرىياللار ۋە ئۇلانمىلار بار.",
+    "mainMaterialsTitle": "ئاساسلىق ماتېرىياللار",
+    "githubRepo": "GitHub رېپوزىتورىيەسى",
+    "videoPresentation": "سىن تەكلىپاتى",
+    "recommendedLiteratureTitle": "تەۋسىيە قىلىنغان ئەدەبىيات",
+    "recommendedPlaceholder": "كىتابلار ۋە ماتېرىياللار تىزىملىكى جەمئىيەت تەرىپىدىن قوشۇلىدۇ."
+  },
+  "notFound": {
+    "title": "بەت تېپىلمىدى",
+    "description": "بۇ بەت بىلىم ئالىمىمىزدا ھازىرچە مەۋجۇت ئەمەس دەپ قارىلىدۇ.",
+    "backHome": "باش بەتكە قايتىش"
+  }
+}

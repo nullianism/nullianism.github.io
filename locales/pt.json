@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianismo",
+    "description": "A primeira religião científica de código aberto do mundo"
+  },
+  "hero": {
+    "title": "Nullianismo",
+    "subtitle": "A primeira religião científica de código aberto do mundo.",
+    "readManifesto": "Ler Manifesto",
+    "joinCommunity": "Junte-se à Comunidade"
+  },
+  "navigation": {
+    "home": "Início",
+    "manifesto": "Manifesto",
+    "philosophy": "Filosofia",
+    "commandments": "Mandamentos",
+    "rituals": "Rituais",
+    "community": "Comunidade",
+    "resources": "Recursos"
+  },
+  "footer": {
+    "aboutTitle": "Sobre o Nullianismo",
+    "aboutDescription": "A primeira religião científica de código aberto do mundo baseada na curiosidade e no pensamento crítico.",
+    "navigationTitle": "Navegação",
+    "joinTitle": "Junte-se a Nós",
+    "copyright": "Nullianismo. Religião de código aberto.",
+    "builtWith": "Construído com amor pelo conhecimento"
+  },
+  "community": {
+    "title": "Comunidade Nullianismo",
+    "howToBecomeTitle": "Como se tornar um Nullian?",
+    "howToBecomeText": "Se você compartilha as ideias apresentadas aqui, considere-se já um Nullian. Nenhum procedimento formal é necessário. Nossa religião é descentralizada.",
+    "howToHelpTitle": "Como ajudar o projeto?",
+    "bulletShareStrong": "Compartilhe",
+    "bulletShareBeforeLink": "este site e",
+    "bulletShareVideoWord": "vídeo",
+    "bulletShareAfterLink": "com amigos.",
+    "bulletLikeStrong": "Dê likes",
+    "bulletLikeRest": "e deixe comentários.",
+    "bulletSuggestStrong": "Sugira suas ideias",
+    "bulletSuggestRest": "para mandamentos e rituais via {ISSUES} e {PULLS} em nosso repositório.",
+    "bulletSuggestIssues": "Problemas",
+    "bulletSuggestPulls": "Pull Requests"
+  },
+  "resources": {
+    "title": "Recursos",
+    "subtitle": "Aqui estão materiais e links úteis.",
+    "mainMaterialsTitle": "Materiais principais",
+    "githubRepo": "Repositório no GitHub",
+    "videoPresentation": "Apresentação em vídeo",
+    "recommendedLiteratureTitle": "Literatura recomendada",
+    "recommendedPlaceholder": "A lista de livros e materiais será adicionada pela comunidade."
+  },
+  "notFound": {
+    "title": "Página não encontrada",
+    "description": "Parece que esta página ainda não se materializou em nosso universo de conhecimento.",
+    "backHome": "Voltar para o início"
+  }
+}

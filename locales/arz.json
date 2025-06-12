@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "نوليانيزم",
+    "description": "أول ديانة علمية مفتوحة المصدر في العالم"
+  },
+  "hero": {
+    "title": "نوليانيزم",
+    "subtitle": "أول ديانة علمية مفتوحة المصدر في العالم.",
+    "readManifesto": "اقرأ البيان",
+    "joinCommunity": "انضم للمجتمع"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "manifesto": "البيان",
+    "philosophy": "الفلسفة",
+    "commandments": "الوصايا",
+    "rituals": "الطقوس",
+    "community": "المجتمع",
+    "resources": "الموارد"
+  },
+  "footer": {
+    "aboutTitle": "عن النوليانيزم",
+    "aboutDescription": "أول ديانة علمية مفتوحة المصدر مبنية على الفضول والتفكير النقدي.",
+    "navigationTitle": "التنقل",
+    "joinTitle": "انضم إلينا",
+    "copyright": "نوليانيزم. ديانة مفتوحة المصدر.",
+    "builtWith": "مبني بحب المعرفة"
+  },
+  "community": {
+    "title": "مجتمع النوليانيزم",
+    "howToBecomeTitle": "إزاي تبقى نولياني؟",
+    "howToBecomeText": "لو بتشارك الأفكار اللي هنا، اعتبر نفسك نولياني بالفعل. مفيش إجراءات رسمية مطلوبة. ديانتنا لامركزية.",
+    "howToHelpTitle": "إزاي تساعد المشروع؟",
+    "bulletShareStrong": "شارك",
+    "bulletShareBeforeLink": "الموقع ده و",
+    "bulletShareVideoWord": "الفيديو",
+    "bulletShareAfterLink": "مع الأصدقاء.",
+    "bulletLikeStrong": "اعطي إعجابات",
+    "bulletLikeRest": "وسيب تعليقات.",
+    "bulletSuggestStrong": "اقترح أفكارك",
+    "bulletSuggestRest": "للوصايا والطقوس عبر {ISSUES} و {PULLS} في مستودعنا.",
+    "bulletSuggestIssues": "المشاكل",
+    "bulletSuggestPulls": "طلبات السحب"
+  },
+  "resources": {
+    "title": "الموارد",
+    "subtitle": "هنا مواد وروابط مفيدة.",
+    "mainMaterialsTitle": "المواد الرئيسية",
+    "githubRepo": "مستودع GitHub",
+    "videoPresentation": "عرض فيديو",
+    "recommendedLiteratureTitle": "الأدب الموصى به",
+    "recommendedPlaceholder": "قائمة الكتب والمواد سيتم إضافتها بواسطة المجتمع."
+  },
+  "notFound": {
+    "title": "الصفحة غير موجودة",
+    "description": "يبدو أن هذه الصفحة لم تتجسد بعد في كون معرفتنا.",
+    "backHome": "العودة للرئيسية"
+  }
+}

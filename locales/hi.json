@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "नलियनिज़्म",
+    "description": "दुनिया का पहला वैज्ञानिक ओपन-सोर्स धर्म"
+  },
+  "hero": {
+    "title": "नलियनिज़्म",
+    "subtitle": "दुनिया का पहला वैज्ञानिक ओपन-सोर्स धर्म।",
+    "readManifesto": "घोषणापत्र पढ़ें",
+    "joinCommunity": "समुदाय से जुड़ें"
+  },
+  "navigation": {
+    "home": "मुख्य पृष्ठ",
+    "manifesto": "घोषणापत्र",
+    "philosophy": "दर्शन",
+    "commandments": "आदेश",
+    "rituals": "अनुष्ठान",
+    "community": "समुदाय",
+    "resources": "संसाधन"
+  },
+  "footer": {
+    "aboutTitle": "नलियनिज़्म के बारे में",
+    "aboutDescription": "जिज्ञासा और आलोचनात्मक सोच पर आधारित दुनिया का पहला वैज्ञानिक ओपन-सोर्स धर्म।",
+    "navigationTitle": "नेविगेशन",
+    "joinTitle": "हमसे जुड़ें",
+    "copyright": "नलियनिज़्म। ओपन सोर्स धर्म।",
+    "builtWith": "ज्ञान के प्रति प्रेम से निर्मित"
+  },
+  "community": {
+    "title": "नलियनिज़्म समुदाय",
+    "howToBecomeTitle": "नलियन कैसे बनें?",
+    "howToBecomeText": "यदि आप यहां प्रस्तुत विचारों को साझा करते हैं, तो खुद को पहले से ही नलियन मानें। कोई औपचारिक प्रक्रियाएँ आवश्यक नहीं हैं। हमारा धर्म विकेंद्रीकृत है।",
+    "howToHelpTitle": "परियोजना में कैसे मदद करें?",
+    "bulletShareStrong": "साझा करें",
+    "bulletShareBeforeLink": "इस साइट और",
+    "bulletShareVideoWord": "वीडियो",
+    "bulletShareAfterLink": "दोस्तों के साथ।",
+    "bulletLikeStrong": "लाइक्स दें",
+    "bulletLikeRest": "और टिप्पणियाँ छोड़ें।",
+    "bulletSuggestStrong": "अपने विचार सुझाएँ",
+    "bulletSuggestRest": "आदेश और अनुष्ठानों के लिए हमारे रिपॉजिटरी में {ISSUES} और {PULLS} के माध्यम से।",
+    "bulletSuggestIssues": "मुद्दे",
+    "bulletSuggestPulls": "पुल अनुरोध"
+  },
+  "resources": {
+    "title": "संसाधन",
+    "subtitle": "यहाँ उपयोगी सामग्री और लिंक हैं।",
+    "mainMaterialsTitle": "मुख्य सामग्री",
+    "githubRepo": "GitHub रिपॉजिटरी",
+    "videoPresentation": "वीडियो प्रस्तुति",
+    "recommendedLiteratureTitle": "अनुशंसित साहित्य",
+    "recommendedPlaceholder": "पुस्तकों और सामग्रियों की सूची समुदाय द्वारा जोड़ी जाएगी।"
+  },
+  "notFound": {
+    "title": "पृष्ठ नहीं मिला",
+    "description": "ऐसा लगता है कि यह पृष्ठ अभी तक हमारे ज्ञान के ब्रह्मांड में प्रकट नहीं हुआ है।",
+    "backHome": "मुख्य पृष्ठ पर लौटें"
+  }
+}

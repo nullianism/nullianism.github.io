@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianismus",
+    "description": "První vědecké open-source náboženství na světě"
+  },
+  "hero": {
+    "title": "Nullianismus",
+    "subtitle": "První vědecké open-source náboženství na světě.",
+    "readManifesto": "Přečíst manifest",
+    "joinCommunity": "Připojit se ke komunitě"
+  },
+  "navigation": {
+    "home": "Domů",
+    "manifesto": "Manifest",
+    "philosophy": "Filosofie",
+    "commandments": "Přikázání",
+    "rituals": "Rituály",
+    "community": "Komunita",
+    "resources": "Zdroje"
+  },
+  "footer": {
+    "aboutTitle": "O Nullianismu",
+    "aboutDescription": "První vědecké open-source náboženství na světě založené na zvědavosti a kritickém myšlení.",
+    "navigationTitle": "Navigace",
+    "joinTitle": "Připojte se k nám",
+    "copyright": "Nullianismus. Open-source náboženství.",
+    "builtWith": "Vytvořeno s láskou k poznání"
+  },
+  "community": {
+    "title": "Komunita Nullianismu",
+    "howToBecomeTitle": "Jak se stát Nullianem?",
+    "howToBecomeText": "Pokud sdílíte zde prezentované myšlenky, považujte se již za Nulliana. Nejsou vyžadovány žádné formální postupy. Naše náboženství je decentralizované.",
+    "howToHelpTitle": "Jak pomoci projektu?",
+    "bulletShareStrong": "Sdílejte",
+    "bulletShareBeforeLink": "tuto stránku a",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "s přáteli.",
+    "bulletLikeStrong": "Dejte lajky",
+    "bulletLikeRest": "a zanechte komentáře.",
+    "bulletSuggestStrong": "Navrhněte své nápady",
+    "bulletSuggestRest": "pro přikázání a rituály prostřednictvím {ISSUES} a {PULLS} v našem úložišti.",
+    "bulletSuggestIssues": "Problémy",
+    "bulletSuggestPulls": "Pull Requesty"
+  },
+  "resources": {
+    "title": "Zdroje",
+    "subtitle": "Zde jsou užitečné materiály a odkazy.",
+    "mainMaterialsTitle": "Klíčové materiály",
+    "githubRepo": "GitHub úložiště",
+    "videoPresentation": "Video prezentace",
+    "recommendedLiteratureTitle": "Doporučená literatura",
+    "recommendedPlaceholder": "Seznam knih a materiálů bude doplněn komunitou."
+  },
+  "notFound": {
+    "title": "Stránka nenalezena",
+    "description": "Vypadá to, že tato stránka se ještě nezmaterializovala v našem vesmíru poznání.",
+    "backHome": "Vrátit se domů"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Нулијанизам",
+    "description": "Првата научна отворена религија во светот"
+  },
+  "hero": {
+    "title": "Нулијанизам",
+    "subtitle": "Првата научна отворена религија во светот.",
+    "readManifesto": "Прочитај Манифест",
+    "joinCommunity": "Придружи се на Заедницата"
+  },
+  "navigation": {
+    "home": "Дома",
+    "manifesto": "Манифест",
+    "philosophy": "Филозофија",
+    "commandments": "Заповеди",
+    "rituals": "Ритуали",
+    "community": "Заедница",
+    "resources": "Ресурси"
+  },
+  "footer": {
+    "aboutTitle": "За Нулијанизам",
+    "aboutDescription": "Првата научна отворена религија во светот базирана на љубопитност и критичко размислување.",
+    "navigationTitle": "Навигација",
+    "joinTitle": "Придружи ни се",
+    "copyright": "Нулијанизам. Отворена религија.",
+    "builtWith": "Изградено со љубов кон знаењето"
+  },
+  "community": {
+    "title": "Заедница на Нулијанизам",
+    "howToBecomeTitle": "Како да станете Нулијанец?",
+    "howToBecomeText": "Ако ги споделувате идеите претставени тука, сметајте се веќе за Нулијанец. Не се потребни формални процедури. Нашата религија е децентрализирана.",
+    "howToHelpTitle": "Како да помогнете на проектот?",
+    "bulletShareStrong": "Споделете",
+    "bulletShareBeforeLink": "оваа страница и",
+    "bulletShareVideoWord": "видео",
+    "bulletShareAfterLink": "со пријателите.",
+    "bulletLikeStrong": "Дадете лајкови",
+    "bulletLikeRest": "и оставете коментари.",
+    "bulletSuggestStrong": "Предложете ги вашите идеи",
+    "bulletSuggestRest": "за заповеди и ритуали преку {ISSUES} и {PULLS} во нашиот репозиториум.",
+    "bulletSuggestIssues": "Проблеми",
+    "bulletSuggestPulls": "Повлекувања"
+  },
+  "resources": {
+    "title": "Ресурси",
+    "subtitle": "Тука се корисни материјали и линкови.",
+    "mainMaterialsTitle": "Клучни материјали",
+    "githubRepo": "GitHub репозиториум",
+    "videoPresentation": "Видео презентација",
+    "recommendedLiteratureTitle": "Препорачана литература",
+    "recommendedPlaceholder": "Листата на книги и материјали ќе биде додадена од заедницата."
+  },
+  "notFound": {
+    "title": "Страницата не е пронајдена",
+    "description": "Изгледа дека оваа страница сè уште не се материјализирала во нашиот универзум на знаење.",
+    "backHome": "Врати се на почеток"
+  }
+}

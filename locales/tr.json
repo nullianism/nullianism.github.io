@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianizm",
+    "description": "Dünyanın ilk bilimsel Açık Kaynak dini"
+  },
+  "hero": {
+    "title": "Nullianizm",
+    "subtitle": "Dünyanın ilk bilimsel Açık Kaynak dini.",
+    "readManifesto": "Manifestoyu Oku",
+    "joinCommunity": "Topluluğa Katıl"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "manifesto": "Manifesto",
+    "philosophy": "Felsefe",
+    "commandments": "Emirler",
+    "rituals": "Ritüeller",
+    "community": "Topluluk",
+    "resources": "Kaynaklar"
+  },
+  "footer": {
+    "aboutTitle": "Nullianizm Hakkında",
+    "aboutDescription": "Merak ve eleştirel düşünceye dayalı dünyanın ilk bilimsel Açık Kaynak dini.",
+    "navigationTitle": "Gezinme",
+    "joinTitle": "Bize Katılın",
+    "copyright": "Nullianizm. Açık Kaynak din.",
+    "builtWith": "Bilgi sevgisiyle inşa edildi"
+  },
+  "community": {
+    "title": "Nullianizm Topluluğu",
+    "howToBecomeTitle": "Nasıl Nullian olunur?",
+    "howToBecomeText": "Burada sunulan fikirleri paylaşıyorsanız, kendinizi zaten bir Nullian olarak kabul edin. Resmi prosedürler gerekli değildir. Dinimiz merkezi değildir.",
+    "howToHelpTitle": "Projeye nasıl yardımcı olunur?",
+    "bulletShareStrong": "Paylaş",
+    "bulletShareBeforeLink": "bu siteyi ve",
+    "bulletShareVideoWord": "videoyu",
+    "bulletShareAfterLink": "arkadaşlarınızla.",
+    "bulletLikeStrong": "Beğeni verin",
+    "bulletLikeRest": "ve yorum bırakın.",
+    "bulletSuggestStrong": "Fikirlerinizi önerin",
+    "bulletSuggestRest": "emirler ve ritüeller için {ISSUES} ve {PULLS} aracılığıyla depomuzda.",
+    "bulletSuggestIssues": "Sorunlar",
+    "bulletSuggestPulls": "Çekme İstekleri"
+  },
+  "resources": {
+    "title": "Kaynaklar",
+    "subtitle": "İşte faydalı materyaller ve bağlantılar.",
+    "mainMaterialsTitle": "Ana materyaller",
+    "githubRepo": "GitHub deposu",
+    "videoPresentation": "Video sunumu",
+    "recommendedLiteratureTitle": "Önerilen literatür",
+    "recommendedPlaceholder": "Kitaplar ve materyaller listesi topluluk tarafından eklenecektir."
+  },
+  "notFound": {
+    "title": "Sayfa bulunamadı",
+    "description": "Görünüşe göre bu sayfa bilgi evrenimizde henüz maddi hale gelmemiş.",
+    "backHome": "Ana sayfaya dön"
+  }
+}

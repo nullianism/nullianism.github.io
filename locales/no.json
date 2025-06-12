@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianisme",
+    "description": "Verdens første vitenskapelige åpen kildekode-religion"
+  },
+  "hero": {
+    "title": "Nullianisme",
+    "subtitle": "Verdens første vitenskapelige åpen kildekode-religion.",
+    "readManifesto": "Les Manifest",
+    "joinCommunity": "Bli med i fellesskapet"
+  },
+  "navigation": {
+    "home": "Hjem",
+    "manifesto": "Manifest",
+    "philosophy": "Filosofi",
+    "commandments": "Bud",
+    "rituals": "Ritualer",
+    "community": "Fellesskap",
+    "resources": "Ressurser"
+  },
+  "footer": {
+    "aboutTitle": "Om Nullianisme",
+    "aboutDescription": "Verdens første vitenskapelige åpen kildekode-religion basert på nysgjerrighet og kritisk tenkning.",
+    "navigationTitle": "Navigasjon",
+    "joinTitle": "Bli med oss",
+    "copyright": "Nullianisme. Åpen kildekode-religion.",
+    "builtWith": "Bygget med kjærlighet til kunnskap"
+  },
+  "community": {
+    "title": "Nullianisme-fellesskap",
+    "howToBecomeTitle": "Hvordan bli en Nullian?",
+    "howToBecomeText": "Hvis du deler ideene som presenteres her, anser deg selv allerede som en Nullian. Ingen formelle prosedyrer kreves. Vår religion er desentralisert.",
+    "howToHelpTitle": "Hvordan hjelpe prosjektet?",
+    "bulletShareStrong": "Del",
+    "bulletShareBeforeLink": "denne siden og",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "med venner.",
+    "bulletLikeStrong": "Gi likes",
+    "bulletLikeRest": "og legg igjen kommentarer.",
+    "bulletSuggestStrong": "Foreslå dine ideer",
+    "bulletSuggestRest": "for bud og ritualer via {ISSUES} og {PULLS} i vårt repository.",
+    "bulletSuggestIssues": "Issues",
+    "bulletSuggestPulls": "Pull Requests"
+  },
+  "resources": {
+    "title": "Ressurser",
+    "subtitle": "Her er nyttige materialer og lenker.",
+    "mainMaterialsTitle": "Viktige materialer",
+    "githubRepo": "GitHub-repository",
+    "videoPresentation": "Videopresentasjon",
+    "recommendedLiteratureTitle": "Anbefalt litteratur",
+    "recommendedPlaceholder": "Listen over bøker og materialer vil bli lagt til av fellesskapet."
+  },
+  "notFound": {
+    "title": "Siden ble ikke funnet",
+    "description": "Det ser ut som denne siden ennå ikke har materialisert seg i vårt kunnskapsunivers.",
+    "backHome": "Tilbake til hjem"
+  }
+}

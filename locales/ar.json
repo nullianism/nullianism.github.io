@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianism",
+    "description": "أول ديانة علمية مفتوحة المصدر في العالم"
+  },
+  "hero": {
+    "title": "Nullianism",
+    "subtitle": "أول ديانة علمية مفتوحة المصدر في العالم.",
+    "readManifesto": "اقرأ البيان",
+    "joinCommunity": "انضم إلى المجتمع"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "manifesto": "البيان",
+    "philosophy": "الفلسفة",
+    "commandments": "الوصايا",
+    "rituals": "الطقوس",
+    "community": "المجتمع",
+    "resources": "الموارد"
+  },
+  "footer": {
+    "aboutTitle": "حول Nullianism",
+    "aboutDescription": "أول ديانة علمية مفتوحة المصدر في العالم تعتمد على الفضول والتفكير النقدي.",
+    "navigationTitle": "التنقل",
+    "joinTitle": "انضم إلينا",
+    "copyright": "Nullianism. ديانة مفتوحة المصدر.",
+    "builtWith": "بنيت بحب للمعرفة"
+  },
+  "community": {
+    "title": "مجتمع Nullianism",
+    "howToBecomeTitle": "كيف تصبح Nullian؟",
+    "howToBecomeText": "إذا كنت تشارك الأفكار المقدمة هنا، فاعتبر نفسك بالفعل Nullian. لا توجد إجراءات رسمية مطلوبة. ديانتنا لا مركزية.",
+    "howToHelpTitle": "كيف تساعد المشروع؟",
+    "bulletShareStrong": "شارك",
+    "bulletShareBeforeLink": "هذا الموقع و",
+    "bulletShareVideoWord": "الفيديو",
+    "bulletShareAfterLink": "مع الأصدقاء.",
+    "bulletLikeStrong": "أعط إعجابات",
+    "bulletLikeRest": "واترك تعليقات.",
+    "bulletSuggestStrong": "اقترح أفكارك",
+    "bulletSuggestRest": "للوصايا والطقوس عبر {ISSUES} و {PULLS} في مستودعنا.",
+    "bulletSuggestIssues": "المشكلات",
+    "bulletSuggestPulls": "طلبات السحب"
+  },
+  "resources": {
+    "title": "الموارد",
+    "subtitle": "هنا مواد وروابط مفيدة.",
+    "mainMaterialsTitle": "المواد الرئيسية",
+    "githubRepo": "مستودع GitHub",
+    "videoPresentation": "عرض فيديو",
+    "recommendedLiteratureTitle": "الأدب الموصى به",
+    "recommendedPlaceholder": "سيتم إضافة قائمة الكتب والمواد بواسطة المجتمع."
+  },
+  "notFound": {
+    "title": "الصفحة غير موجودة",
+    "description": "يبدو أن هذه الصفحة لم تتجسد بعد في كون معرفتنا.",
+    "backHome": "العودة إلى الرئيسية"
+  }
+}

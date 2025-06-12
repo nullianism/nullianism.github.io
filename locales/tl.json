@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianismo",
+    "description": "Ang unang siyentipikong Open-Source na relihiyon sa mundo"
+  },
+  "hero": {
+    "title": "Nullianismo",
+    "subtitle": "Ang unang siyentipikong Open-Source na relihiyon sa mundo.",
+    "readManifesto": "Basahin ang Manifessto",
+    "joinCommunity": "Sumali sa Komunidad"
+  },
+  "navigation": {
+    "home": "Tahanan",
+    "manifesto": "Manifessto",
+    "philosophy": "Pilosopiya",
+    "commandments": "Mga Utos",
+    "rituals": "Mga Ritwal",
+    "community": "Komunidad",
+    "resources": "Mga Mapagkukunan"
+  },
+  "footer": {
+    "aboutTitle": "Tungkol sa Nullianismo",
+    "aboutDescription": "Ang unang siyentipikong Open-Source na relihiyon na nakabatay sa kuryusidad at kritikal na pag-iisip.",
+    "navigationTitle": "Pag-navigate",
+    "joinTitle": "Sumali sa Amin",
+    "copyright": "Nullianismo. Open Source na relihiyon.",
+    "builtWith": "Ginawa nang may pagmamahal para sa kaalaman"
+  },
+  "community": {
+    "title": "Komunidad ng Nullianismo",
+    "howToBecomeTitle": "Paano maging isang Nullian?",
+    "howToBecomeText": "Kung ikaw ay sumasang-ayon sa mga ideyang ipinakita dito, ituring mo na ang iyong sarili bilang isang Nullian. Walang pormal na mga pamamaraan ang kinakailangan. Ang aming relihiyon ay desentralisado.",
+    "howToHelpTitle": "Paano makatulong sa proyekto?",
+    "bulletShareStrong": "Ibahagi",
+    "bulletShareBeforeLink": "ang site na ito at",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "sa mga kaibigan.",
+    "bulletLikeStrong": "Magbigay ng mga like",
+    "bulletLikeRest": "at mag-iwan ng mga komento.",
+    "bulletSuggestStrong": "Iminungkahi ang iyong mga ideya",
+    "bulletSuggestRest": "para sa mga utos at ritwal sa pamamagitan ng {ISSUES} at {PULLS} sa aming repository.",
+    "bulletSuggestIssues": "Mga Isyu",
+    "bulletSuggestPulls": "Mga Pull Request"
+  },
+  "resources": {
+    "title": "Mga Mapagkukunan",
+    "subtitle": "Narito ang mga kapaki-pakinabang na materyales at link.",
+    "mainMaterialsTitle": "Pangunahing materyales",
+    "githubRepo": "GitHub repository",
+    "videoPresentation": "Video na presentasyon",
+    "recommendedLiteratureTitle": "Inirerekomendang literatura",
+    "recommendedPlaceholder": "Ang listahan ng mga libro at materyales ay idaragdag ng komunidad."
+  },
+  "notFound": {
+    "title": "Hindi natagpuan ang pahina",
+    "description": "Mukhang ang pahinang ito ay hindi pa nagmamanipesto sa ating uniberso ng kaalaman.",
+    "backHome": "Bumalik sa tahanan"
+  }
+}

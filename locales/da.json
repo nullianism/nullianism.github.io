@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianisme",
+    "description": "Verdens første videnskabelige Open-Source religion"
+  },
+  "hero": {
+    "title": "Nullianisme",
+    "subtitle": "Verdens første videnskabelige Open-Source religion.",
+    "readManifesto": "Læs Manifest",
+    "joinCommunity": "Deltag i Fællesskabet"
+  },
+  "navigation": {
+    "home": "Hjem",
+    "manifesto": "Manifest",
+    "philosophy": "Filosofi",
+    "commandments": "Bud",
+    "rituals": "Ritualer",
+    "community": "Fællesskab",
+    "resources": "Ressourcer"
+  },
+  "footer": {
+    "aboutTitle": "Om Nullianisme",
+    "aboutDescription": "Verdens første videnskabelige Open-Source religion baseret på nysgerrighed og kritisk tænkning.",
+    "navigationTitle": "Navigation",
+    "joinTitle": "Deltag",
+    "copyright": "Nullianisme. Open Source religion.",
+    "builtWith": "Bygget med kærlighed til viden"
+  },
+  "community": {
+    "title": "Nullianisme Fællesskab",
+    "howToBecomeTitle": "Hvordan bliver man Nullian?",
+    "howToBecomeText": "Hvis du deler de ideer, der præsenteres her, betragter du dig allerede som en Nullian. Ingen formelle procedurer er nødvendige. Vores religion er decentraliseret.",
+    "howToHelpTitle": "Hvordan kan man hjælpe projektet?",
+    "bulletShareStrong": "Del",
+    "bulletShareBeforeLink": "dette site og",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "med venner.",
+    "bulletLikeStrong": "Giv likes",
+    "bulletLikeRest": "og efterlad kommentarer.",
+    "bulletSuggestStrong": "Foreslå dine ideer",
+    "bulletSuggestRest": "til bud og ritualer via {ISSUES} og {PULLS} i vores repository.",
+    "bulletSuggestIssues": "Problemer",
+    "bulletSuggestPulls": "Pull Anmodninger"
+  },
+  "resources": {
+    "title": "Ressourcer",
+    "subtitle": "Her er nyttige materialer og links.",
+    "mainMaterialsTitle": "Vigtige materialer",
+    "githubRepo": "GitHub repository",
+    "videoPresentation": "Video præsentation",
+    "recommendedLiteratureTitle": "Anbefalet litteratur",
+    "recommendedPlaceholder": "Listen over bøger og materialer vil blive tilføjet af fællesskabet."
+  },
+  "notFound": {
+    "title": "Siden blev ikke fundet",
+    "description": "Det ser ud til, at denne side endnu ikke er materialiseret i vores vidensunivers.",
+    "backHome": "Tilbage til hjem"
+  }
+}

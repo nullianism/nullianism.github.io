@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianism",
+    "description": "Maailma esimene teaduslik avatud lähtekoodiga religioon"
+  },
+  "hero": {
+    "title": "Nullianism",
+    "subtitle": "Maailma esimene teaduslik avatud lähtekoodiga religioon.",
+    "readManifesto": "Loe manifesti",
+    "joinCommunity": "Liitu kogukonnaga"
+  },
+  "navigation": {
+    "home": "Avaleht",
+    "manifesto": "Manifest",
+    "philosophy": "Filosoofia",
+    "commandments": "Käsud",
+    "rituals": "Rituaalid",
+    "community": "Kogukond",
+    "resources": "Ressursid"
+  },
+  "footer": {
+    "aboutTitle": "Nullianismi kohta",
+    "aboutDescription": "Maailma esimene teaduslik avatud lähtekoodiga religioon, mis põhineb uudishimul ja kriitilisel mõtlemisel.",
+    "navigationTitle": "Navigatsioon",
+    "joinTitle": "Liitu meiega",
+    "copyright": "Nullianism. Avatud lähtekoodiga religioon.",
+    "builtWith": "Loodud teadmiste armastusega"
+  },
+  "community": {
+    "title": "Nullianismi kogukond",
+    "howToBecomeTitle": "Kuidas saada nullianistiks?",
+    "howToBecomeText": "Kui jagad siin esitatud ideid, pead end juba nullianistiks. Formaalsed protseduurid pole vajalikud. Meie religioon on detsentraliseeritud.",
+    "howToHelpTitle": "Kuidas projekti aidata?",
+    "bulletShareStrong": "Jaga",
+    "bulletShareBeforeLink": "seda saiti ja",
+    "bulletShareVideoWord": "videot",
+    "bulletShareAfterLink": "sõpradega.",
+    "bulletLikeStrong": "Anna meeldimisi",
+    "bulletLikeRest": "ja jäta kommentaare.",
+    "bulletSuggestStrong": "Paku oma ideid",
+    "bulletSuggestRest": "käskude ja rituaalide jaoks meie hoidlas {ISSUES} ja {PULLS} kaudu.",
+    "bulletSuggestIssues": "Probleemid",
+    "bulletSuggestPulls": "Tõmbepäringud"
+  },
+  "resources": {
+    "title": "Ressursid",
+    "subtitle": "Siin on kasulikud materjalid ja lingid.",
+    "mainMaterialsTitle": "Peamised materjalid",
+    "githubRepo": "GitHubi hoidla",
+    "videoPresentation": "Videopresentatsioon",
+    "recommendedLiteratureTitle": "Soovitatav kirjandus",
+    "recommendedPlaceholder": "Raamatute ja materjalide nimekirja lisab kogukond."
+  },
+  "notFound": {
+    "title": "Lehte ei leitud",
+    "description": "Tundub, et see leht pole veel meie teadmiste universumis materialiseerunud.",
+    "backHome": "Tagasi avalehele"
+  }
+}
