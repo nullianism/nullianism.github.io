@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "虚无主义",
+    "description": "世界上第一个科学的开源宗教"
+  },
+  "hero": {
+    "title": "虚无主义",
+    "subtitle": "世界上第一个科学的开源宗教。",
+    "readManifesto": "阅读宣言",
+    "joinCommunity": "加入社区"
+  },
+  "navigation": {
+    "home": "首页",
+    "manifesto": "宣言",
+    "philosophy": "哲学",
+    "commandments": "戒律",
+    "rituals": "仪式",
+    "community": "社区",
+    "resources": "资源"
+  },
+  "footer": {
+    "aboutTitle": "关于虚无主义",
+    "aboutDescription": "基于好奇心和批判性思维的世界上第一个科学的开源宗教。",
+    "navigationTitle": "导航",
+    "joinTitle": "加入我们",
+    "copyright": "虚无主义。开源宗教。",
+    "builtWith": "以对知识的热爱构建"
+  },
+  "community": {
+    "title": "虚无主义社区",
+    "howToBecomeTitle": "如何成为虚无主义者？",
+    "howToBecomeText": "如果您认同这里提出的想法，请认为自己已经是虚无主义者。不需要正式程序。我们的宗教是去中心化的。",
+    "howToHelpTitle": "如何帮助项目？",
+    "bulletShareStrong": "分享",
+    "bulletShareBeforeLink": "此网站和",
+    "bulletShareVideoWord": "视频",
+    "bulletShareAfterLink": "给朋友。",
+    "bulletLikeStrong": "点赞",
+    "bulletLikeRest": "并留下评论。",
+    "bulletSuggestStrong": "提出您的想法",
+    "bulletSuggestRest": "通过我们的仓库中的 {ISSUES} 和 {PULLS} 提出戒律和仪式的建议。",
+    "bulletSuggestIssues": "问题",
+    "bulletSuggestPulls": "拉取请求"
+  },
+  "resources": {
+    "title": "资源",
+    "subtitle": "这里是有用的材料和链接。",
+    "mainMaterialsTitle": "主要材料",
+    "githubRepo": "GitHub 仓库",
+    "videoPresentation": "视频演示",
+    "recommendedLiteratureTitle": "推荐书目",
+    "recommendedPlaceholder": "书籍和材料列表将由社区添加。"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "description": "看起来这个页面还没有在我们的知识宇宙中显现出来。",
+    "backHome": "返回首页"
+  }
+}

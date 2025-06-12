@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianism",
+    "description": "Världens första vetenskapliga Open-Source-religion"
+  },
+  "hero": {
+    "title": "Nullianism",
+    "subtitle": "Världens första vetenskapliga Open-Source-religion.",
+    "readManifesto": "Läs Manifestet",
+    "joinCommunity": "Gå med i Gemenskapen"
+  },
+  "navigation": {
+    "home": "Hem",
+    "manifesto": "Manifest",
+    "philosophy": "Filosofi",
+    "commandments": "Budord",
+    "rituals": "Ritualer",
+    "community": "Gemenskap",
+    "resources": "Resurser"
+  },
+  "footer": {
+    "aboutTitle": "Om Nullianism",
+    "aboutDescription": "Världens första vetenskapliga Open-Source-religion baserad på nyfikenhet och kritiskt tänkande.",
+    "navigationTitle": "Navigering",
+    "joinTitle": "Gå med oss",
+    "copyright": "Nullianism. Open Source-religion.",
+    "builtWith": "Byggd med kärlek till kunskap"
+  },
+  "community": {
+    "title": "Nullianism Gemenskap",
+    "howToBecomeTitle": "Hur blir man en Nullian?",
+    "howToBecomeText": "Om du delar de idéer som presenteras här, betrakta dig redan som en Nullian. Inga formella procedurer krävs. Vår religion är decentraliserad.",
+    "howToHelpTitle": "Hur kan man hjälpa projektet?",
+    "bulletShareStrong": "Dela",
+    "bulletShareBeforeLink": "denna sida och",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "med vänner.",
+    "bulletLikeStrong": "Ge gilla-markeringar",
+    "bulletLikeRest": "och lämna kommentarer.",
+    "bulletSuggestStrong": "Föreslå dina idéer",
+    "bulletSuggestRest": "för budord och ritualer via {ISSUES} och {PULLS} i vårt arkiv.",
+    "bulletSuggestIssues": "Ärenden",
+    "bulletSuggestPulls": "Pull Requests"
+  },
+  "resources": {
+    "title": "Resurser",
+    "subtitle": "Här finns användbara material och länkar.",
+    "mainMaterialsTitle": "Viktiga material",
+    "githubRepo": "GitHub-arkiv",
+    "videoPresentation": "Videopresentation",
+    "recommendedLiteratureTitle": "Rekommenderad litteratur",
+    "recommendedPlaceholder": "Listan över böcker och material kommer att läggas till av gemenskapen."
+  },
+  "notFound": {
+    "title": "Sidan hittades inte",
+    "description": "Det verkar som om denna sida ännu inte har materialiserats i vårt kunskapsuniversum.",
+    "backHome": "Återvänd till hem"
+  }
+}

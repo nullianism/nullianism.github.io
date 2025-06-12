@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianizm",
+    "description": "Dünyanın ilk elmi Açıq Mənbə dini"
+  },
+  "hero": {
+    "title": "Nullianizm",
+    "subtitle": "Dünyanın ilk elmi Açıq Mənbə dini.",
+    "readManifesto": "Manifesti oxu",
+    "joinCommunity": "İcma qoşul"
+  },
+  "navigation": {
+    "home": "Ana səhifə",
+    "manifesto": "Manifest",
+    "philosophy": "Fəlsəfə",
+    "commandments": "Əmrnamələr",
+    "rituals": "Rituallar",
+    "community": "İcma",
+    "resources": "Resurslar"
+  },
+  "footer": {
+    "aboutTitle": "Nullianizm haqqında",
+    "aboutDescription": "Maraq və tənqidi düşüncəyə əsaslanan dünyanın ilk elmi Açıq Mənbə dini.",
+    "navigationTitle": "Naviqasiya",
+    "joinTitle": "Bizə qoşul",
+    "copyright": "Nullianizm. Açıq Mənbə dini.",
+    "builtWith": "Bilik sevgisi ilə yaradılmışdır"
+  },
+  "community": {
+    "title": "Nullianizm İcması",
+    "howToBecomeTitle": "Necə Nullian olmaq olar?",
+    "howToBecomeText": "Burada təqdim olunan fikirləri bölüşürsünüzsə, artıq özünüzü Nullian hesab edin. Heç bir rəsmi prosedur tələb olunmur. Dinimiz mərkəzləşdirilməmişdir.",
+    "howToHelpTitle": "Layihəyə necə kömək etmək olar?",
+    "bulletShareStrong": "Paylaşın",
+    "bulletShareBeforeLink": "bu saytı və",
+    "bulletShareVideoWord": "videonu",
+    "bulletShareAfterLink": "dostlarınızla.",
+    "bulletLikeStrong": "Bəyənin",
+    "bulletLikeRest": "və şərhlər yazın.",
+    "bulletSuggestStrong": "Öz fikirlərinizi təklif edin",
+    "bulletSuggestRest": "əmrnamələr və ritualar üçün {ISSUES} və {PULLS} vasitəsilə bizim depomuzda.",
+    "bulletSuggestIssues": "Məsələlər",
+    "bulletSuggestPulls": "Çəkmə Sorğuları"
+  },
+  "resources": {
+    "title": "Resurslar",
+    "subtitle": "Burada faydalı materiallar və bağlantılar var.",
+    "mainMaterialsTitle": "Əsas materiallar",
+    "githubRepo": "GitHub deposu",
+    "videoPresentation": "Video təqdimat",
+    "recommendedLiteratureTitle": "Tövsiyə olunan ədəbiyyat",
+    "recommendedPlaceholder": "Kitablar və materiallar siyahısı icma tərəfindən əlavə olunacaq."
+  },
+  "notFound": {
+    "title": "Səhifə tapılmadı",
+    "description": "Görünür, bu səhifə hələ bilik kainatımızda materiallaşmayıb.",
+    "backHome": "Ana səhifəyə qayıt"
+  }
+}

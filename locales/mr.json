@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "नलिअनिझम",
+    "description": "जगातील पहिली वैज्ञानिक मुक्त-स्रोत धर्म"
+  },
+  "hero": {
+    "title": "नलिअनिझम",
+    "subtitle": "जगातील पहिली वैज्ञानिक मुक्त-स्रोत धर्म.",
+    "readManifesto": "घोषणापत्र वाचा",
+    "joinCommunity": "समुदायात सामील व्हा"
+  },
+  "navigation": {
+    "home": "मुख्यपृष्ठ",
+    "manifesto": "घोषणापत्र",
+    "philosophy": "तत्त्वज्ञान",
+    "commandments": "आज्ञा",
+    "rituals": "संस्कार",
+    "community": "समुदाय",
+    "resources": "साधने"
+  },
+  "footer": {
+    "aboutTitle": "नलिअनिझम बद्दल",
+    "aboutDescription": "जिज्ञासा आणि चिकित्सक विचारांवर आधारित जगातील पहिली वैज्ञानिक मुक्त-स्रोत धर्म.",
+    "navigationTitle": "नेव्हिगेशन",
+    "joinTitle": "आमच्यात सामील व्हा",
+    "copyright": "नलिअनिझम. मुक्त स्रोत धर्म.",
+    "builtWith": "ज्ञानासाठी प्रेमाने तयार केलेले"
+  },
+  "community": {
+    "title": "नलिअनिझम समुदाय",
+    "howToBecomeTitle": "नलिअन कसे बनावे?",
+    "howToBecomeText": "जर तुम्ही येथे सादर केलेल्या कल्पनांशी सहमत असाल, तर तुम्ही आधीच नलिअन आहात असे समजा. कोणत्याही औपचारिक प्रक्रियेची आवश्यकता नाही. आमचा धर्म विकेंद्रित आहे.",
+    "howToHelpTitle": "प्रकल्पाला कसे मदत करावी?",
+    "bulletShareStrong": "शेअर करा",
+    "bulletShareBeforeLink": "या साइट आणि",
+    "bulletShareVideoWord": "व्हिडिओ",
+    "bulletShareAfterLink": "मित्रांसोबत.",
+    "bulletLikeStrong": "लाईक्स द्या",
+    "bulletLikeRest": "आणि टिप्पण्या द्या.",
+    "bulletSuggestStrong": "तुमच्या कल्पना सुचवा",
+    "bulletSuggestRest": "आज्ञा आणि संस्कारांसाठी आमच्या रेपॉझिटरीमध्ये {ISSUES} आणि {PULLS} द्वारे.",
+    "bulletSuggestIssues": "समस्या",
+    "bulletSuggestPulls": "पुल विनंत्या"
+  },
+  "resources": {
+    "title": "साधने",
+    "subtitle": "इथे उपयुक्त साहित्य आणि दुवे आहेत.",
+    "mainMaterialsTitle": "मुख्य साहित्य",
+    "githubRepo": "GitHub रेपॉझिटरी",
+    "videoPresentation": "व्हिडिओ सादरीकरण",
+    "recommendedLiteratureTitle": "शिफारस केलेले साहित्य",
+    "recommendedPlaceholder": "पुस्तके आणि साहित्याची यादी समुदायाद्वारे जोडली जाईल."
+  },
+  "notFound": {
+    "title": "पृष्ठ सापडले नाही",
+    "description": "असे दिसते की हे पृष्ठ अद्याप आपल्या ज्ञानाच्या विश्वात प्रकट झालेले नाही.",
+    "backHome": "मुख्यपृष्ठावर परत जा"
+  }
+}

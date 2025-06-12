@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianism",
+    "description": "Addinin kimiyya na farko a duniya mai budadden tushe"
+  },
+  "hero": {
+    "title": "Nullianism",
+    "subtitle": "Addinin kimiyya na farko a duniya mai budadden tushe.",
+    "readManifesto": "Karanta Manufar",
+    "joinCommunity": "Shiga Al'umma"
+  },
+  "navigation": {
+    "home": "Gida",
+    "manifesto": "Manufa",
+    "philosophy": "Falsafa",
+    "commandments": "Dokoki",
+    "rituals": "Al'adu",
+    "community": "Al'umma",
+    "resources": "Albarkatu"
+  },
+  "footer": {
+    "aboutTitle": "Game da Nullianism",
+    "aboutDescription": "Addinin kimiyya na farko a duniya mai budadden tushe wanda ya dogara da son sani da tunani mai zurfi.",
+    "navigationTitle": "Kewayawa",
+    "joinTitle": "Shiga Mu",
+    "copyright": "Nullianism. Addini mai budadden tushe.",
+    "builtWith": "An gina tare da soyayya ga ilimi"
+  },
+  "community": {
+    "title": "Al'ummar Nullianism",
+    "howToBecomeTitle": "Yadda za a zama Nullian?",
+    "howToBecomeText": "Idan kuna raba ra'ayoyin da aka gabatar a nan, ku yi la'akari da kanku a matsayin Nullian. Babu bukatar tsari na hukuma. Addininmu yana da tsari mai zaman kansa.",
+    "howToHelpTitle": "Yadda za a taimaka wa aikin?",
+    "bulletShareStrong": "Raba",
+    "bulletShareBeforeLink": "wannan shafin da",
+    "bulletShareVideoWord": "bidiyo",
+    "bulletShareAfterLink": "tare da abokai.",
+    "bulletLikeStrong": "Ba da so",
+    "bulletLikeRest": "kuma bar sharhi.",
+    "bulletSuggestStrong": "Bayar da shawarwarin ku",
+    "bulletSuggestRest": "don dokoki da al'adu ta hanyar {ISSUES} da {PULLS} a cikin ma'ajinmu.",
+    "bulletSuggestIssues": "Matsaloli",
+    "bulletSuggestPulls": "Buƙatun Ja"
+  },
+  "resources": {
+    "title": "Albarkatu",
+    "subtitle": "Ga kayan aiki masu amfani da hanyoyin haɗi.",
+    "mainMaterialsTitle": "Mahimman kayan aiki",
+    "githubRepo": "Ma'ajin GitHub",
+    "videoPresentation": "Gabatarwar Bidiyo",
+    "recommendedLiteratureTitle": "Litattafan da aka ba da shawarar",
+    "recommendedPlaceholder": "Jerin littattafai da kayan aiki za a ƙara ta al'umma."
+  },
+  "notFound": {
+    "title": "Ba a sami shafi ba",
+    "description": "Yana kama da wannan shafin bai bayyana ba tukuna a cikin sararin iliminmu.",
+    "backHome": "Koma gida"
+  }
+}

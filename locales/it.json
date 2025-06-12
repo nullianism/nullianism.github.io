@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianismo",
+    "description": "La prima religione scientifica Open-Source del mondo"
+  },
+  "hero": {
+    "title": "Nullianismo",
+    "subtitle": "La prima religione scientifica Open-Source del mondo.",
+    "readManifesto": "Leggi il Manifesto",
+    "joinCommunity": "Unisciti alla Comunità"
+  },
+  "navigation": {
+    "home": "Home",
+    "manifesto": "Manifesto",
+    "philosophy": "Filosofia",
+    "commandments": "Comandamenti",
+    "rituals": "Rituali",
+    "community": "Comunità",
+    "resources": "Risorse"
+  },
+  "footer": {
+    "aboutTitle": "Informazioni su Nullianismo",
+    "aboutDescription": "La prima religione scientifica Open-Source del mondo basata sulla curiosità e sul pensiero critico.",
+    "navigationTitle": "Navigazione",
+    "joinTitle": "Unisciti a noi",
+    "copyright": "Nullianismo. Religione Open Source.",
+    "builtWith": "Costruito con amore per la conoscenza"
+  },
+  "community": {
+    "title": "Comunità Nullianismo",
+    "howToBecomeTitle": "Come diventare un Nulliano?",
+    "howToBecomeText": "Se condividi le idee presentate qui, considerati già un Nulliano. Non sono richieste procedure formali. La nostra religione è decentralizzata.",
+    "howToHelpTitle": "Come aiutare il progetto?",
+    "bulletShareStrong": "Condividi",
+    "bulletShareBeforeLink": "questo sito e",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "con gli amici.",
+    "bulletLikeStrong": "Metti mi piace",
+    "bulletLikeRest": "e lascia commenti.",
+    "bulletSuggestStrong": "Suggerisci le tue idee",
+    "bulletSuggestRest": "per comandamenti e rituali tramite {ISSUES} e {PULLS} nel nostro repository.",
+    "bulletSuggestIssues": "Problemi",
+    "bulletSuggestPulls": "Richieste di Pull"
+  },
+  "resources": {
+    "title": "Risorse",
+    "subtitle": "Ecco materiali e link utili.",
+    "mainMaterialsTitle": "Materiali principali",
+    "githubRepo": "Repository GitHub",
+    "videoPresentation": "Presentazione video",
+    "recommendedLiteratureTitle": "Letteratura consigliata",
+    "recommendedPlaceholder": "L'elenco dei libri e dei materiali sarà aggiunto dalla comunità."
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "description": "Sembra che questa pagina non si sia ancora materializzata nel nostro universo della conoscenza.",
+    "backHome": "Torna alla home"
+  }
+}

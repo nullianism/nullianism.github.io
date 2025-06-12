@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "నుల్లియానిజం",
+    "description": "ప్రపంచంలో మొట్టమొదటి శాస్త్రీయ ఓపెన్-సోర్స్ మతం"
+  },
+  "hero": {
+    "title": "నుల్లియానిజం",
+    "subtitle": "ప్రపంచంలో మొట్టమొదటి శాస్త్రీయ ఓపెన్-సోర్స్ మతం.",
+    "readManifesto": "మానిఫెస్టో చదవండి",
+    "joinCommunity": "సమాజంలో చేరండి"
+  },
+  "navigation": {
+    "home": "హోమ్",
+    "manifesto": "మానిఫెస్టో",
+    "philosophy": "తత్వశాస్త్రం",
+    "commandments": "ఆజ్ఞాపత్రాలు",
+    "rituals": "క్రతువులు",
+    "community": "సమాజం",
+    "resources": "వనరులు"
+  },
+  "footer": {
+    "aboutTitle": "నుల్లియానిజం గురించి",
+    "aboutDescription": "కుతూహలం మరియు విమర్శాత్మక ఆలోచనలపై ఆధారపడి ఉన్న ప్రపంచంలో మొట్టమొదటి శాస్త్రీయ ఓపెన్-సోర్స్ మతం.",
+    "navigationTitle": "నావిగేషన్",
+    "joinTitle": "మాతో చేరండి",
+    "copyright": "నుల్లియానిజం. ఓపెన్ సోర్స్ మతం.",
+    "builtWith": "జ్ఞానానికి ప్రేమతో నిర్మించబడింది"
+  },
+  "community": {
+    "title": "నుల్లియానిజం సమాజం",
+    "howToBecomeTitle": "ఎలా నుల్లియన్ అవ్వాలి?",
+    "howToBecomeText": "ఇక్కడ ప్రదర్శించిన ఆలోచనలను మీరు పంచుకుంటే, మీరు ఇప్పటికే నుల్లియన్ అని భావించండి. ఎటువంటి అధికారిక విధానాలు అవసరం లేదు. మా మతం వికేంద్రీకృతం.",
+    "howToHelpTitle": "ప్రాజెక్ట్‌కు ఎలా సహాయం చేయాలి?",
+    "bulletShareStrong": "షేర్ చేయండి",
+    "bulletShareBeforeLink": "ఈ సైట్ మరియు",
+    "bulletShareVideoWord": "వీడియో",
+    "bulletShareAfterLink": "స్నేహితులతో.",
+    "bulletLikeStrong": "లైకులు ఇవ్వండి",
+    "bulletLikeRest": "మరియు వ్యాఖ్యలు ఇవ్వండి.",
+    "bulletSuggestStrong": "మీ ఆలోచనలను సూచించండి",
+    "bulletSuggestRest": "మా రిపోజిటరీలో {ISSUES} మరియు {PULLS} ద్వారా ఆజ్ఞాపత్రాలు మరియు క్రతువుల కోసం.",
+    "bulletSuggestIssues": "ఇష్యూస్",
+    "bulletSuggestPulls": "పుల్ రిక్వెస్టులు"
+  },
+  "resources": {
+    "title": "వనరులు",
+    "subtitle": "ఇక్కడ ఉపయోగకరమైన పదార్థాలు మరియు లింకులు ఉన్నాయి.",
+    "mainMaterialsTitle": "ప్రధాన పదార్థాలు",
+    "githubRepo": "గిట్‌హబ్ రిపోజిటరీ",
+    "videoPresentation": "వీడియో ప్రదర్శన",
+    "recommendedLiteratureTitle": "సిఫారసు చేయబడిన సాహిత్యం",
+    "recommendedPlaceholder": "పుస్తకాలు మరియు పదార్థాల జాబితా సమాజం ద్వారా జోడించబడుతుంది."
+  },
+  "notFound": {
+    "title": "పేజీ కనుగొనబడలేదు",
+    "description": "ఈ పేజీ మా జ్ఞాన విశ్వంలో ఇంకా రూపాంతరం చెందలేదు.",
+    "backHome": "హోమ్‌కు తిరిగి వెళ్ళండి"
+  }
+}

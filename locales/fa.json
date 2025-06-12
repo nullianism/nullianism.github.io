@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "نیولیانیسم",
+    "description": "اولین دین علمی متن‌باز جهان"
+  },
+  "hero": {
+    "title": "نیولیانیسم",
+    "subtitle": "اولین دین علمی متن‌باز جهان.",
+    "readManifesto": "بیانیه را بخوانید",
+    "joinCommunity": "به جامعه بپیوندید"
+  },
+  "navigation": {
+    "home": "خانه",
+    "manifesto": "بیانیه",
+    "philosophy": "فلسفه",
+    "commandments": "فرامین",
+    "rituals": "آیین‌ها",
+    "community": "جامعه",
+    "resources": "منابع"
+  },
+  "footer": {
+    "aboutTitle": "درباره نیولیانیسم",
+    "aboutDescription": "اولین دین علمی متن‌باز جهان بر اساس کنجکاوی و تفکر انتقادی.",
+    "navigationTitle": "ناوبری",
+    "joinTitle": "به ما بپیوندید",
+    "copyright": "نیولیانیسم. دین متن‌باز.",
+    "builtWith": "ساخته شده با عشق به دانش"
+  },
+  "community": {
+    "title": "جامعه نیولیانیسم",
+    "howToBecomeTitle": "چگونه نیولیان شویم؟",
+    "howToBecomeText": "اگر ایده‌های ارائه شده در اینجا را می‌پسندید، خود را نیولیان بدانید. هیچ رویه رسمی لازم نیست. دین ما غیرمتمرکز است.",
+    "howToHelpTitle": "چگونه به پروژه کمک کنیم؟",
+    "bulletShareStrong": "به اشتراک بگذارید",
+    "bulletShareBeforeLink": "این سایت و",
+    "bulletShareVideoWord": "ویدیو",
+    "bulletShareAfterLink": "با دوستان.",
+    "bulletLikeStrong": "لایک کنید",
+    "bulletLikeRest": "و نظر بگذارید.",
+    "bulletSuggestStrong": "ایده‌های خود را پیشنهاد دهید",
+    "bulletSuggestRest": "برای فرامین و آیین‌ها از طریق {ISSUES} و {PULLS} در مخزن ما.",
+    "bulletSuggestIssues": "مسائل",
+    "bulletSuggestPulls": "درخواست‌های کشش"
+  },
+  "resources": {
+    "title": "منابع",
+    "subtitle": "اینجا مواد و لینک‌های مفید موجود است.",
+    "mainMaterialsTitle": "مواد کلیدی",
+    "githubRepo": "مخزن گیت‌هاب",
+    "videoPresentation": "ارائه ویدیویی",
+    "recommendedLiteratureTitle": "ادبیات پیشنهادی",
+    "recommendedPlaceholder": "فهرست کتاب‌ها و مواد توسط جامعه اضافه خواهد شد."
+  },
+  "notFound": {
+    "title": "صفحه پیدا نشد",
+    "description": "به نظر می‌رسد این صفحه هنوز در جهان دانش ما ظاهر نشده است.",
+    "backHome": "بازگشت به خانه"
+  }
+}

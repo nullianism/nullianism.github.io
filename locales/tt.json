@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Нуллианизм",
+    "description": "Дөньяның беренче фәнни Ачык-Чыганак дине"
+  },
+  "hero": {
+    "title": "Нуллианизм",
+    "subtitle": "Дөньяның беренче фәнни Ачык-Чыганак дине.",
+    "readManifesto": "Манифестны укырга",
+    "joinCommunity": "Җәмәгатькә кушылырга"
+  },
+  "navigation": {
+    "home": "Өйгә",
+    "manifesto": "Манифест",
+    "philosophy": "Фәлсәфә",
+    "commandments": "Әмерләр",
+    "rituals": "Ритуаллар",
+    "community": "Җәмәгать",
+    "resources": "Ресурслар"
+  },
+  "footer": {
+    "aboutTitle": "Нуллианизм турында",
+    "aboutDescription": "Кызыксыну һәм критик фикерләүгә нигезләнгән дөньяның беренче фәнни Ачык-Чыганак дине.",
+    "navigationTitle": "Навигация",
+    "joinTitle": "Безгә кушылыгыз",
+    "copyright": "Нуллианизм. Ачык Чыганак дине.",
+    "builtWith": "Белемгә мәхәббәт белән төзелгән"
+  },
+  "community": {
+    "title": "Нуллианизм Җәмәгате",
+    "howToBecomeTitle": "Ничек Нуллиан булырга?",
+    "howToBecomeText": "Әгәр дә сез монда тәкъдим ителгән идеяләрне уртаклашасыз икән, үзегезне инде Нуллиан дип санагыз. Формаль процедуралар кирәк түгел. Безнең дин децентрализован.",
+    "howToHelpTitle": "Проектка ничек ярдәм итәргә?",
+    "bulletShareStrong": "Уртаклашырга",
+    "bulletShareBeforeLink": "бу сайт һәм",
+    "bulletShareVideoWord": "видео",
+    "bulletShareAfterLink": "дуслар белән.",
+    "bulletLikeStrong": "Лайклар бирергә",
+    "bulletLikeRest": "һәм комментарийлар калдырырга.",
+    "bulletSuggestStrong": "Үз идеяләрегезне тәкъдим итәргә",
+    "bulletSuggestRest": "әмерләр һәм ритуаллар өчен безнең репозиторийда {ISSUES} һәм {PULLS} аша.",
+    "bulletSuggestIssues": "Мәсәләләр",
+    "bulletSuggestPulls": "Тарту үтенечләре"
+  },
+  "resources": {
+    "title": "Ресурслар",
+    "subtitle": "Менә файдалы материаллар һәм сылтамалар.",
+    "mainMaterialsTitle": "Төп материаллар",
+    "githubRepo": "GitHub репозиториясе",
+    "videoPresentation": "Видео презентация",
+    "recommendedLiteratureTitle": "Тавсия ителгән әдәбият",
+    "recommendedPlaceholder": "Китаплар һәм материаллар исемлеге җәмәгать тарафыннан өстәләчәк."
+  },
+  "notFound": {
+    "title": "Бит табылмады",
+    "description": "Бу бит әле безнең белем галәмебездә материаллашмаган кебек.",
+    "backHome": "Өйгә кайту"
+  }
+}

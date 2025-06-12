@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianism",
+    "description": "世界上第一個科學開源宗教"
+  },
+  "hero": {
+    "title": "Nullianism",
+    "subtitle": "世界上第一個科學開源宗教。",
+    "readManifesto": "閱讀宣言",
+    "joinCommunity": "加入社群"
+  },
+  "navigation": {
+    "home": "主頁",
+    "manifesto": "宣言",
+    "philosophy": "哲學",
+    "commandments": "誡命",
+    "rituals": "儀式",
+    "community": "社群",
+    "resources": "資源"
+  },
+  "footer": {
+    "aboutTitle": "關於 Nullianism",
+    "aboutDescription": "基於好奇心和批判性思維的世界上第一個科學開源宗教。",
+    "navigationTitle": "導航",
+    "joinTitle": "加入我們",
+    "copyright": "Nullianism。開源宗教。",
+    "builtWith": "以對知識的愛建造"
+  },
+  "community": {
+    "title": "Nullianism 社群",
+    "howToBecomeTitle": "如何成為 Nullian？",
+    "howToBecomeText": "如果你認同這裡提出的理念，已經可以視自己為 Nullian。無需正式手續。我們的宗教是去中心化的。",
+    "howToHelpTitle": "如何幫助這個項目？",
+    "bulletShareStrong": "分享",
+    "bulletShareBeforeLink": "呢個網站同",
+    "bulletShareVideoWord": "影片",
+    "bulletShareAfterLink": "俾朋友。",
+    "bulletLikeStrong": "畀讚",
+    "bulletLikeRest": "同留言。",
+    "bulletSuggestStrong": "提出你嘅意見",
+    "bulletSuggestRest": "關於誡命同儀式經由我哋嘅倉庫入面嘅 {ISSUES} 同 {PULLS}。",
+    "bulletSuggestIssues": "問題",
+    "bulletSuggestPulls": "拉取請求"
+  },
+  "resources": {
+    "title": "資源",
+    "subtitle": "呢度係有用嘅資料同連結。",
+    "mainMaterialsTitle": "主要資料",
+    "githubRepo": "GitHub 倉庫",
+    "videoPresentation": "影片介紹",
+    "recommendedLiteratureTitle": "推薦閱讀",
+    "recommendedPlaceholder": "書籍同資料嘅清單將由社群添加。"
+  },
+  "notFound": {
+    "title": "頁面未找到",
+    "description": "睇嚟呢個頁面仲未喺我哋嘅知識宇宙中實現。",
+    "backHome": "返回主頁"
+  }
+}

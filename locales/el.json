@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Νουλιανισμός",
+    "description": "Η πρώτη επιστημονική θρησκεία ανοιχτού κώδικα στον κόσμο"
+  },
+  "hero": {
+    "title": "Νουλιανισμός",
+    "subtitle": "Η πρώτη επιστημονική θρησκεία ανοιχτού κώδικα στον κόσμο.",
+    "readManifesto": "Διαβάστε το Μανιφέστο",
+    "joinCommunity": "Εγγραφείτε στην Κοινότητα"
+  },
+  "navigation": {
+    "home": "Αρχική",
+    "manifesto": "Μανιφέστο",
+    "philosophy": "Φιλοσοφία",
+    "commandments": "Εντολές",
+    "rituals": "Τελετουργίες",
+    "community": "Κοινότητα",
+    "resources": "Πόροι"
+  },
+  "footer": {
+    "aboutTitle": "Σχετικά με τον Νουλιανισμό",
+    "aboutDescription": "Η πρώτη επιστημονική θρησκεία ανοιχτού κώδικα βασισμένη στην περιέργεια και την κριτική σκέψη.",
+    "navigationTitle": "Πλοήγηση",
+    "joinTitle": "Γίνετε Μέλος",
+    "copyright": "Νουλιανισμός. Θρησκεία ανοιχτού κώδικα.",
+    "builtWith": "Κατασκευασμένο με αγάπη για τη γνώση"
+  },
+  "community": {
+    "title": "Κοινότητα Νουλιανισμού",
+    "howToBecomeTitle": "Πώς να γίνετε Νουλιανός;",
+    "howToBecomeText": "Αν μοιράζεστε τις ιδέες που παρουσιάζονται εδώ, θεωρήστε τον εαυτό σας ήδη Νουλιανό. Δεν απαιτούνται επίσημες διαδικασίες. Η θρησκεία μας είναι αποκεντρωμένη.",
+    "howToHelpTitle": "Πώς να βοηθήσετε το έργο;",
+    "bulletShareStrong": "Μοιραστείτε",
+    "bulletShareBeforeLink": "αυτόν τον ιστότοπο και",
+    "bulletShareVideoWord": "βίντεο",
+    "bulletShareAfterLink": "με φίλους.",
+    "bulletLikeStrong": "Δώστε likes",
+    "bulletLikeRest": "και αφήστε σχόλια.",
+    "bulletSuggestStrong": "Προτείνετε τις ιδέες σας",
+    "bulletSuggestRest": "για εντολές και τελετουργίες μέσω {ISSUES} και {PULLS} στο αποθετήριό μας.",
+    "bulletSuggestIssues": "Θέματα",
+    "bulletSuggestPulls": "Αιτήσεις Έλξης"
+  },
+  "resources": {
+    "title": "Πόροι",
+    "subtitle": "Εδώ είναι χρήσιμα υλικά και σύνδεσμοι.",
+    "mainMaterialsTitle": "Βασικά υλικά",
+    "githubRepo": "Αποθετήριο GitHub",
+    "videoPresentation": "Παρουσίαση βίντεο",
+    "recommendedLiteratureTitle": "Συνιστώμενη βιβλιογραφία",
+    "recommendedPlaceholder": "Η λίστα βιβλίων και υλικών θα προστεθεί από την κοινότητα."
+  },
+  "notFound": {
+    "title": "Η σελίδα δεν βρέθηκε",
+    "description": "Φαίνεται ότι αυτή η σελίδα δεν έχει ακόμη υλοποιηθεί στο σύμπαν της γνώσης μας.",
+    "backHome": "Επιστροφή στην αρχική"
+  }
+}
