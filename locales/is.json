@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianismi",
+    "description": "Fyrsta vísindalega opinn trúarbrögð heimsins"
+  },
+  "hero": {
+    "title": "Nullianismi",
+    "subtitle": "Fyrsta vísindalega opinn trúarbrögð heimsins.",
+    "readManifesto": "Lestu stefnuskrá",
+    "joinCommunity": "Gakktu í samfélagið"
+  },
+  "navigation": {
+    "home": "Heim",
+    "manifesto": "Stefnuskrá",
+    "philosophy": "Heimspeki",
+    "commandments": "Boðorð",
+    "rituals": "Siðir",
+    "community": "Samfélag",
+    "resources": "Auðlindir"
+  },
+  "footer": {
+    "aboutTitle": "Um Nullianismi",
+    "aboutDescription": "Fyrsta vísindalega opinn trúarbrögð heimsins byggð á forvitni og gagnrýnni hugsun.",
+    "navigationTitle": "Leiðsögn",
+    "joinTitle": "Gakktu til liðs við okkur",
+    "copyright": "Nullianismi. Opin trúarbrögð.",
+    "builtWith": "Byggt með ást fyrir þekkingu"
+  },
+  "community": {
+    "title": "Nullianismi samfélag",
+    "howToBecomeTitle": "Hvernig á að verða Nulliani?",
+    "howToBecomeText": "Ef þú deilir hugmyndunum sem hér eru kynntar, teldu þig þegar vera Nulliani. Engar formlegar aðferðir eru nauðsynlegar. Trúarbrögð okkar eru dreifð.",
+    "howToHelpTitle": "Hvernig á að hjálpa verkefninu?",
+    "bulletShareStrong": "Deildu",
+    "bulletShareBeforeLink": "þessari síðu og",
+    "bulletShareVideoWord": "myndbandi",
+    "bulletShareAfterLink": "með vinum.",
+    "bulletLikeStrong": "Gefðu læk",
+    "bulletLikeRest": "og skildu eftir athugasemdir.",
+    "bulletSuggestStrong": "Leggðu til hugmyndir þínar",
+    "bulletSuggestRest": "fyrir boðorð og siði í gegnum {ISSUES} og {PULLS} í geymslu okkar.",
+    "bulletSuggestIssues": "Mál",
+    "bulletSuggestPulls": "Tilkynningar"
+  },
+  "resources": {
+    "title": "Auðlindir",
+    "subtitle": "Hér eru gagnleg efni og tenglar.",
+    "mainMaterialsTitle": "Lykil efni",
+    "githubRepo": "GitHub geymsla",
+    "videoPresentation": "Myndbandskynning",
+    "recommendedLiteratureTitle": "Mælt með bókmenntum",
+    "recommendedPlaceholder": "Listi yfir bækur og efni verður bætt við af samfélaginu."
+  },
+  "notFound": {
+    "title": "Síða fannst ekki",
+    "description": "Það lítur út fyrir að þessi síða hafi ekki enn orðið til í alheimi okkar þekkingar.",
+    "backHome": "Fara aftur heim"
+  }
+}

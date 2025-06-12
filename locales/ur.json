@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "نیولیانزم",
+    "description": "دنیا کا پہلا سائنسی اوپن سورس مذہب"
+  },
+  "hero": {
+    "title": "نیولیانزم",
+    "subtitle": "دنیا کا پہلا سائنسی اوپن سورس مذہب۔",
+    "readManifesto": "منشور پڑھیں",
+    "joinCommunity": "کمیونٹی میں شامل ہوں"
+  },
+  "navigation": {
+    "home": "ہوم",
+    "manifesto": "منشور",
+    "philosophy": "فلسفہ",
+    "commandments": "احکامات",
+    "rituals": "رسومات",
+    "community": "کمیونٹی",
+    "resources": "وسائل"
+  },
+  "footer": {
+    "aboutTitle": "نیولیانزم کے بارے میں",
+    "aboutDescription": "دنیا کا پہلا سائنسی اوپن سورس مذہب جو تجسس اور تنقیدی سوچ پر مبنی ہے۔",
+    "navigationTitle": "نیویگیشن",
+    "joinTitle": "ہم سے جڑیں",
+    "copyright": "نیولیانزم۔ اوپن سورس مذہب۔",
+    "builtWith": "علم کے لئے محبت کے ساتھ بنایا گیا"
+  },
+  "community": {
+    "title": "نیولیانزم کمیونٹی",
+    "howToBecomeTitle": "نیولیان کیسے بنیں؟",
+    "howToBecomeText": "اگر آپ یہاں پیش کردہ خیالات سے اتفاق کرتے ہیں تو خود کو پہلے ہی نیولیان سمجھیں۔ کوئی رسمی طریقہ کار درکار نہیں ہے۔ ہمارا مذہب غیر مرکزی ہے۔",
+    "howToHelpTitle": "پروجیکٹ میں کیسے مدد کریں؟",
+    "bulletShareStrong": "شیئر کریں",
+    "bulletShareBeforeLink": "اس سائٹ اور",
+    "bulletShareVideoWord": "ویڈیو",
+    "bulletShareAfterLink": "دوستوں کے ساتھ۔",
+    "bulletLikeStrong": "پسندیدگی دیں",
+    "bulletLikeRest": "اور تبصرے چھوڑیں۔",
+    "bulletSuggestStrong": "اپنے خیالات پیش کریں",
+    "bulletSuggestRest": "احکامات اور رسومات کے لئے ہمارے ریپوزیٹری میں {ISSUES} اور {PULLS} کے ذریعے۔",
+    "bulletSuggestIssues": "مسائل",
+    "bulletSuggestPulls": "پُل درخواستیں"
+  },
+  "resources": {
+    "title": "وسائل",
+    "subtitle": "یہاں مفید مواد اور لنکس ہیں۔",
+    "mainMaterialsTitle": "اہم مواد",
+    "githubRepo": "گٹ ہب ریپوزیٹری",
+    "videoPresentation": "ویڈیو پریزنٹیشن",
+    "recommendedLiteratureTitle": "تجویز کردہ لٹریچر",
+    "recommendedPlaceholder": "کتابوں اور مواد کی فہرست کمیونٹی کے ذریعہ شامل کی جائے گی۔"
+  },
+  "notFound": {
+    "title": "صفحہ نہیں ملا",
+    "description": "ایسا لگتا ہے کہ یہ صفحہ ابھی تک ہمارے علم کی کائنات میں ظاہر نہیں ہوا ہے۔",
+    "backHome": "گھر واپس جائیں"
+  }
+}

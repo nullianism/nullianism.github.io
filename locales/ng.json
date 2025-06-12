@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianism",
+    "description": "Okpukpe mbu nke ụwa nke sayensị mepere emepe"
+  },
+  "hero": {
+    "title": "Nullianism",
+    "subtitle": "Okpukpe mbu nke ụwa nke sayensị mepere emepe.",
+    "readManifesto": "Gụọ Manifesto",
+    "joinCommunity": "Jikọọ na Obodo"
+  },
+  "navigation": {
+    "home": "Ụlọ",
+    "manifesto": "Manifesto",
+    "philosophy": "Filosofi",
+    "commandments": "Iwu",
+    "rituals": "Omume",
+    "community": "Obodo",
+    "resources": "Akụrụngwa"
+  },
+  "footer": {
+    "aboutTitle": "Banyere Nullianism",
+    "aboutDescription": "Okpukpe mbu nke ụwa nke sayensị mepere emepe dabere na ọchịchọ ịmata ihe na echiche na-akpachapụ anya.",
+    "navigationTitle": "Nduzi",
+    "joinTitle": "Jikọọ Anyị",
+    "copyright": "Nullianism. Okpukpe mepere emepe.",
+    "builtWith": "E wuru ya na ịhụnanya maka ọmụma"
+  },
+  "community": {
+    "title": "Obodo Nullianism",
+    "howToBecomeTitle": "Olee otú ị ga-esi bụrụ Nullian?",
+    "howToBecomeText": "Ọ bụrụ na ị na-ekekọrịta echiche ndị e gosipụtara ebe a, tụlee onwe gị dị ka Nullian. Enweghị usoro ndị gọọmentị chọrọ. Okpukpe anyị adịghị etiti.",
+    "howToHelpTitle": "Olee otú ị ga-esi nyere ọrụ aka?",
+    "bulletShareStrong": "Kekọrịta",
+    "bulletShareBeforeLink": "saịtị a na",
+    "bulletShareVideoWord": "vidio",
+    "bulletShareAfterLink": "na ndị enyi.",
+    "bulletLikeStrong": "Nye mmasị",
+    "bulletLikeRest": "na hapụ nkọwa.",
+    "bulletSuggestStrong": "Tụnye echiche gị",
+    "bulletSuggestRest": "maka iwu na omume site na {ISSUES} na {PULLS} na ndekọ anyị.",
+    "bulletSuggestIssues": "Nsogbu",
+    "bulletSuggestPulls": "Pull Requests"
+  },
+  "resources": {
+    "title": "Akụrụngwa",
+    "subtitle": "Nke a bụ ihe ndị bara uru na njikọ.",
+    "mainMaterialsTitle": "Ihe ndị bụ isi",
+    "githubRepo": "Ndekọ GitHub",
+    "videoPresentation": "Ngosipụta vidio",
+    "recommendedLiteratureTitle": "Akwụkwọ akwadoro",
+    "recommendedPlaceholder": "Ndepụta akwụkwọ na ihe ndị ọzọ ga-agbakwunye site na obodo."
+  },
+  "notFound": {
+    "title": "Achataghị ibe ahụ",
+    "description": "O yiri ka ibe a anaghị adị n'ụwa ọmụma anyị.",
+    "backHome": "Laghachi n'ụlọ"
+  }
+}

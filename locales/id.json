@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianisme",
+    "description": "Agama Open-Source ilmiah pertama di dunia"
+  },
+  "hero": {
+    "title": "Nullianisme",
+    "subtitle": "Agama Open-Source ilmiah pertama di dunia.",
+    "readManifesto": "Baca Manifesto",
+    "joinCommunity": "Bergabung dengan Komunitas"
+  },
+  "navigation": {
+    "home": "Beranda",
+    "manifesto": "Manifesto",
+    "philosophy": "Filosofi",
+    "commandments": "Perintah",
+    "rituals": "Ritual",
+    "community": "Komunitas",
+    "resources": "Sumber Daya"
+  },
+  "footer": {
+    "aboutTitle": "Tentang Nullianisme",
+    "aboutDescription": "Agama Open-Source ilmiah pertama di dunia yang didasarkan pada rasa ingin tahu dan pemikiran kritis.",
+    "navigationTitle": "Navigasi",
+    "joinTitle": "Bergabunglah dengan Kami",
+    "copyright": "Nullianisme. Agama Open Source.",
+    "builtWith": "Dibangun dengan cinta untuk pengetahuan"
+  },
+  "community": {
+    "title": "Komunitas Nullianisme",
+    "howToBecomeTitle": "Bagaimana menjadi seorang Nullian?",
+    "howToBecomeText": "Jika Anda berbagi ide yang disajikan di sini, anggap diri Anda sudah menjadi seorang Nullian. Tidak ada prosedur formal yang diperlukan. Agama kami terdesentralisasi.",
+    "howToHelpTitle": "Bagaimana membantu proyek ini?",
+    "bulletShareStrong": "Bagikan",
+    "bulletShareBeforeLink": "situs ini dan",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "dengan teman-teman.",
+    "bulletLikeStrong": "Berikan suka",
+    "bulletLikeRest": "dan tinggalkan komentar.",
+    "bulletSuggestStrong": "Sarankan ide Anda",
+    "bulletSuggestRest": "untuk perintah dan ritual melalui {ISSUES} dan {PULLS} di repositori kami.",
+    "bulletSuggestIssues": "Masalah",
+    "bulletSuggestPulls": "Permintaan Tarik"
+  },
+  "resources": {
+    "title": "Sumber Daya",
+    "subtitle": "Berikut adalah materi dan tautan yang berguna.",
+    "mainMaterialsTitle": "Materi utama",
+    "githubRepo": "Repositori GitHub",
+    "videoPresentation": "Presentasi video",
+    "recommendedLiteratureTitle": "Literatur yang direkomendasikan",
+    "recommendedPlaceholder": "Daftar buku dan materi akan ditambahkan oleh komunitas."
+  },
+  "notFound": {
+    "title": "Halaman tidak ditemukan",
+    "description": "Sepertinya halaman ini belum terwujud dalam alam semesta pengetahuan kita.",
+    "backHome": "Kembali ke beranda"
+  }
+}

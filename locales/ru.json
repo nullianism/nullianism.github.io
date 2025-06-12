@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Нуллианство",
+    "description": "Первая в мире научная Open-Source религия"
+  },
+  "hero": {
+    "title": "Нуллианство",
+    "subtitle": "Первая в мире научная Open-Source религия.",
+    "readManifesto": "Читать Манифест",
+    "joinCommunity": "Присоединиться"
+  },
+  "navigation": {
+    "home": "Главная",
+    "manifesto": "Манифест",
+    "philosophy": "Философия",
+    "commandments": "Заповеди",
+    "rituals": "Ритуалы",
+    "community": "Сообщество",
+    "resources": "Ресурсы"
+  },
+  "footer": {
+    "aboutTitle": "О Нуллианстве",
+    "aboutDescription": "Первая в мире научная Open-Source религия, основанная на любознательности и критическом мышлении.",
+    "navigationTitle": "Навигация",
+    "joinTitle": "Присоединяйтесь",
+    "copyright": "Нуллианство. Open Source религия.",
+    "builtWith": "Построено с любовью к знаниям"
+  },
+  "community": {
+    "title": "Сообщество Нуллианства",
+    "howToBecomeTitle": "Как стать нуллианцем?",
+    "howToBecomeText": "Если вы разделяете изложенные здесь идеи, считайте, что вы уже нуллианец. Никаких формальных процедур не требуется. Наша религия децентрализована.",
+    "howToHelpTitle": "Как помочь проекту?",
+    "bulletShareStrong": "Поделитесь",
+    "bulletShareBeforeLink": "этим сайтом и",
+    "bulletShareVideoWord": "видео",
+    "bulletShareAfterLink": "с друзьями.",
+    "bulletLikeStrong": "Ставьте лайки",
+    "bulletLikeRest": "и оставляйте комментарии.",
+    "bulletSuggestStrong": "Предлагайте свои идеи",
+    "bulletSuggestRest": "для заповедей и ритуалов через {ISSUES} и {PULLS} в нашем репозитории.",
+    "bulletSuggestIssues": "Issues",
+    "bulletSuggestPulls": "Pull Requests"
+  },
+  "resources": {
+    "title": "Ресурсы",
+    "subtitle": "Здесь собраны полезные материалы и ссылки.",
+    "mainMaterialsTitle": "Основные материалы",
+    "githubRepo": "GitHub репозиторий",
+    "videoPresentation": "Видео презентация",
+    "recommendedLiteratureTitle": "Рекомендуемая литература",
+    "recommendedPlaceholder": "Список книг и материалов будет дополнен сообществом."
+  },
+  "notFound": {
+    "title": "Страница не найдена",
+    "description": "Похоже, эта страница еще не существует в нашей вселенной знаний.",
+    "backHome": "Вернуться на главную"
+  }
+}

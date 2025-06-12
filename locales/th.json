@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "นัลเลียนิซึม",
+    "description": "ศาสนาโอเพ่นซอร์สทางวิทยาศาสตร์แห่งแรกของโลก"
+  },
+  "hero": {
+    "title": "นัลเลียนิซึม",
+    "subtitle": "ศาสนาโอเพ่นซอร์สทางวิทยาศาสตร์แห่งแรกของโลก",
+    "readManifesto": "อ่านแถลงการณ์",
+    "joinCommunity": "เข้าร่วมชุมชน"
+  },
+  "navigation": {
+    "home": "หน้าแรก",
+    "manifesto": "แถลงการณ์",
+    "philosophy": "ปรัชญา",
+    "commandments": "บัญญัติ",
+    "rituals": "พิธีกรรม",
+    "community": "ชุมชน",
+    "resources": "ทรัพยากร"
+  },
+  "footer": {
+    "aboutTitle": "เกี่ยวกับนัลเลียนิซึม",
+    "aboutDescription": "ศาสนาโอเพ่นซอร์สทางวิทยาศาสตร์แห่งแรกของโลกที่มีพื้นฐานจากความอยากรู้อยากเห็นและการคิดเชิงวิพากษ์",
+    "navigationTitle": "การนำทาง",
+    "joinTitle": "เข้าร่วมกับเรา",
+    "copyright": "นัลเลียนิซึม. ศาสนาโอเพ่นซอร์ส.",
+    "builtWith": "สร้างด้วยความรักในความรู้"
+  },
+  "community": {
+    "title": "ชุมชนนัลเลียนิซึม",
+    "howToBecomeTitle": "จะเป็นนัลเลียนได้อย่างไร?",
+    "howToBecomeText": "หากคุณแบ่งปันแนวคิดที่นำเสนอที่นี่ ถือว่าคุณเป็นนัลเลียนแล้ว ไม่จำเป็นต้องมีขั้นตอนอย่างเป็นทางการ ศาสนาของเราเป็นแบบกระจายศูนย์",
+    "howToHelpTitle": "จะช่วยโครงการได้อย่างไร?",
+    "bulletShareStrong": "แบ่งปัน",
+    "bulletShareBeforeLink": "เว็บไซต์นี้และ",
+    "bulletShareVideoWord": "วิดีโอ",
+    "bulletShareAfterLink": "กับเพื่อน",
+    "bulletLikeStrong": "ให้ไลค์",
+    "bulletLikeRest": "และแสดงความคิดเห็น",
+    "bulletSuggestStrong": "แนะนำแนวคิดของคุณ",
+    "bulletSuggestRest": "สำหรับบัญญัติและพิธีกรรมผ่าน {ISSUES} และ {PULLS} ในที่เก็บของเรา",
+    "bulletSuggestIssues": "ปัญหา",
+    "bulletSuggestPulls": "คำขอดึง"
+  },
+  "resources": {
+    "title": "ทรัพยากร",
+    "subtitle": "นี่คือวัสดุและลิงก์ที่มีประโยชน์",
+    "mainMaterialsTitle": "วัสดุหลัก",
+    "githubRepo": "ที่เก็บ GitHub",
+    "videoPresentation": "การนำเสนอวิดีโอ",
+    "recommendedLiteratureTitle": "วรรณกรรมแนะนำ",
+    "recommendedPlaceholder": "รายชื่อหนังสือและวัสดุจะถูกเพิ่มโดยชุมชน"
+  },
+  "notFound": {
+    "title": "ไม่พบหน้า",
+    "description": "ดูเหมือนว่าหน้านี้ยังไม่ปรากฏในจักรวาลแห่งความรู้ของเรา",
+    "backHome": "กลับไปที่หน้าแรก"
+  }
+}

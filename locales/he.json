@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "נוליאניזם",
+    "description": "הדת המדעית הראשונה בעולם בקוד פתוח"
+  },
+  "hero": {
+    "title": "נוליאניזם",
+    "subtitle": "הדת המדעית הראשונה בעולם בקוד פתוח.",
+    "readManifesto": "קרא את המניפסט",
+    "joinCommunity": "הצטרף לקהילה"
+  },
+  "navigation": {
+    "home": "בית",
+    "manifesto": "מניפסט",
+    "philosophy": "פילוסופיה",
+    "commandments": "מצוות",
+    "rituals": "טקסים",
+    "community": "קהילה",
+    "resources": "משאבים"
+  },
+  "footer": {
+    "aboutTitle": "אודות נוליאניזם",
+    "aboutDescription": "הדת המדעית הראשונה בעולם בקוד פתוח המבוססת על סקרנות וחשיבה ביקורתית.",
+    "navigationTitle": "ניווט",
+    "joinTitle": "הצטרף אלינו",
+    "copyright": "נוליאניזם. דת בקוד פתוח.",
+    "builtWith": "נבנה באהבה לידע"
+  },
+  "community": {
+    "title": "קהילת נוליאניזם",
+    "howToBecomeTitle": "איך להפוך לנוליאני?",
+    "howToBecomeText": "אם אתה חולק את הרעיונות המוצגים כאן, תחשיב את עצמך כבר נוליאני. אין צורך בהליכים פורמליים. הדת שלנו מבוזרת.",
+    "howToHelpTitle": "איך לעזור לפרויקט?",
+    "bulletShareStrong": "שתף",
+    "bulletShareBeforeLink": "את האתר הזה ו",
+    "bulletShareVideoWord": "וידאו",
+    "bulletShareAfterLink": "עם חברים.",
+    "bulletLikeStrong": "תן לייקים",
+    "bulletLikeRest": "והשאר תגובות.",
+    "bulletSuggestStrong": "הצע את הרעיונות שלך",
+    "bulletSuggestRest": "למצוות וטקסים דרך {ISSUES} ו-{PULLS} במאגר שלנו.",
+    "bulletSuggestIssues": "בעיות",
+    "bulletSuggestPulls": "בקשות משיכה"
+  },
+  "resources": {
+    "title": "משאבים",
+    "subtitle": "כאן תמצאו חומרים וקישורים שימושיים.",
+    "mainMaterialsTitle": "חומרים מרכזיים",
+    "githubRepo": "מאגר GitHub",
+    "videoPresentation": "מצגת וידאו",
+    "recommendedLiteratureTitle": "ספרות מומלצת",
+    "recommendedPlaceholder": "רשימת הספרים והחומרים תתווסף על ידי הקהילה."
+  },
+  "notFound": {
+    "title": "הדף לא נמצא",
+    "description": "נראה שהדף הזה עדיין לא התגשם ביקום הידע שלנו.",
+    "backHome": "חזור לבית"
+  }
+}

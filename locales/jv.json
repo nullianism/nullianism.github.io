@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianisme",
+    "description": "Agama Open-Source ilmiah pisanan ing donya"
+  },
+  "hero": {
+    "title": "Nullianisme",
+    "subtitle": "Agama Open-Source ilmiah pisanan ing donya.",
+    "readManifesto": "Waca Manifesto",
+    "joinCommunity": "Gabung Komunitas"
+  },
+  "navigation": {
+    "home": "Beranda",
+    "manifesto": "Manifesto",
+    "philosophy": "Filosofi",
+    "commandments": "Perintah",
+    "rituals": "Ritual",
+    "community": "Komunitas",
+    "resources": "Sumber Daya"
+  },
+  "footer": {
+    "aboutTitle": "Babagan Nullianisme",
+    "aboutDescription": "Agama Open-Source ilmiah pisanan ing donya adhedhasar rasa penasaran lan pamikiran kritis.",
+    "navigationTitle": "Navigasi",
+    "joinTitle": "Gabung Kita",
+    "copyright": "Nullianisme. Agama Open Source.",
+    "builtWith": "Dibangun kanthi tresna marang kawruh"
+  },
+  "community": {
+    "title": "Komunitas Nullianisme",
+    "howToBecomeTitle": "Kepiye dadi Nullian?",
+    "howToBecomeText": "Yen sampeyan nuduhake ide sing disajikake ing kene, anggep sampeyan wis dadi Nullian. Ora ana prosedur formal sing dibutuhake. Agama kita desentralisasi.",
+    "howToHelpTitle": "Kepiye mbantu proyek?",
+    "bulletShareStrong": "Bagikan",
+    "bulletShareBeforeLink": "situs iki lan",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "karo kanca-kanca.",
+    "bulletLikeStrong": "Wenehi suka",
+    "bulletLikeRest": "lan tinggalake komentar.",
+    "bulletSuggestStrong": "Usulake ide sampeyan",
+    "bulletSuggestRest": "kanggo perintah lan ritual liwat {ISSUES} lan {PULLS} ing repositori kita.",
+    "bulletSuggestIssues": "Masalah",
+    "bulletSuggestPulls": "Tarik Permintaan"
+  },
+  "resources": {
+    "title": "Sumber Daya",
+    "subtitle": "Ing kene ana bahan lan pranala sing migunani.",
+    "mainMaterialsTitle": "Bahan utama",
+    "githubRepo": "Repositori GitHub",
+    "videoPresentation": "Presentasi video",
+    "recommendedLiteratureTitle": "Literatur sing disaranake",
+    "recommendedPlaceholder": "Daftar buku lan bahan bakal ditambahake dening komunitas."
+  },
+  "notFound": {
+    "title": "Kaca ora ditemokake",
+    "description": "Kayane kaca iki durung materialisasi ing jagad kawruh kita.",
+    "backHome": "Balik menyang beranda"
+  }
+}

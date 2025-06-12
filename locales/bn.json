@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "নুলিয়ানিজম",
+    "description": "বিশ্বের প্রথম বৈজ্ঞানিক ওপেন-সোর্স ধর্ম"
+  },
+  "hero": {
+    "title": "নুলিয়ানিজম",
+    "subtitle": "বিশ্বের প্রথম বৈজ্ঞানিক ওপেন-সোর্স ধর্ম।",
+    "readManifesto": "ঘোষণাপত্র পড়ুন",
+    "joinCommunity": "সম্প্রদায়ে যোগ দিন"
+  },
+  "navigation": {
+    "home": "প্রথম পাতা",
+    "manifesto": "ঘোষণাপত্র",
+    "philosophy": "দর্শন",
+    "commandments": "আদেশাবলী",
+    "rituals": "আচার",
+    "community": "সম্প্রদায়",
+    "resources": "সম্পদ"
+  },
+  "footer": {
+    "aboutTitle": "নুলিয়ানিজম সম্পর্কে",
+    "aboutDescription": "কৌতূহল এবং সমালোচনামূলক চিন্তাধারার উপর ভিত্তি করে বিশ্বের প্রথম বৈজ্ঞানিক ওপেন-সোর্স ধর্ম।",
+    "navigationTitle": "নেভিগেশন",
+    "joinTitle": "আমাদের সাথে যোগ দিন",
+    "copyright": "নুলিয়ানিজম। ওপেন সোর্স ধর্ম।",
+    "builtWith": "জ্ঞানপ্রেমে নির্মিত"
+  },
+  "community": {
+    "title": "নুলিয়ানিজম সম্প্রদায়",
+    "howToBecomeTitle": "কিভাবে নুলিয়ান হওয়া যায়?",
+    "howToBecomeText": "যদি আপনি এখানে প্রদত্ত ধারণাগুলির সাথে একমত হন, তবে নিজেকে ইতিমধ্যেই নুলিয়ান মনে করুন। কোনো আনুষ্ঠানিক প্রক্রিয়া প্রয়োজন নেই। আমাদের ধর্ম বিকেন্দ্রীকৃত।",
+    "howToHelpTitle": "প্রকল্পে সাহায্য কিভাবে করবেন?",
+    "bulletShareStrong": "শেয়ার করুন",
+    "bulletShareBeforeLink": "এই সাইট এবং",
+    "bulletShareVideoWord": "ভিডিও",
+    "bulletShareAfterLink": "বন্ধুদের সাথে।",
+    "bulletLikeStrong": "লাইক দিন",
+    "bulletLikeRest": "এবং মন্তব্য করুন।",
+    "bulletSuggestStrong": "আপনার ধারণা প্রস্তাব করুন",
+    "bulletSuggestRest": "আমাদের রেপোজিটরিতে আদেশাবলী এবং আচার সম্পর্কিত {ISSUES} এবং {PULLS} এর মাধ্যমে।",
+    "bulletSuggestIssues": "ইস্যু",
+    "bulletSuggestPulls": "পুল রিকোয়েস্ট"
+  },
+  "resources": {
+    "title": "সম্পদ",
+    "subtitle": "এখানে দরকারী উপকরণ এবং লিঙ্ক রয়েছে।",
+    "mainMaterialsTitle": "মূল উপকরণ",
+    "githubRepo": "গিটহাব রেপোজিটরি",
+    "videoPresentation": "ভিডিও উপস্থাপনা",
+    "recommendedLiteratureTitle": "প্রস্তাবিত সাহিত্য",
+    "recommendedPlaceholder": "বই এবং উপকরণের তালিকা সম্প্রদায় দ্বারা যোগ করা হবে।"
+  },
+  "notFound": {
+    "title": "পৃষ্ঠা পাওয়া যায়নি",
+    "description": "এটি মনে হচ্ছে এই পৃষ্ঠাটি এখনও আমাদের জ্ঞানের মহাবিশ্বে বাস্তবায়িত হয়নি।",
+    "backHome": "প্রথম পাতায় ফিরে যান"
+  }
+}

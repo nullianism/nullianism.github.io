@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Нулліанізм",
+    "description": "Перша у світі наукова релігія з відкритим кодом"
+  },
+  "hero": {
+    "title": "Нулліанізм",
+    "subtitle": "Перша у світі наукова релігія з відкритим кодом.",
+    "readManifesto": "Читати Маніфест",
+    "joinCommunity": "Приєднатися до Спільноти"
+  },
+  "navigation": {
+    "home": "Головна",
+    "manifesto": "Маніфест",
+    "philosophy": "Філософія",
+    "commandments": "Заповіді",
+    "rituals": "Ритуали",
+    "community": "Спільнота",
+    "resources": "Ресурси"
+  },
+  "footer": {
+    "aboutTitle": "Про Нулліанізм",
+    "aboutDescription": "Перша у світі наукова релігія з відкритим кодом, заснована на цікавості та критичному мисленні.",
+    "navigationTitle": "Навігація",
+    "joinTitle": "Приєднуйтесь до нас",
+    "copyright": "Нулліанізм. Релігія з відкритим кодом.",
+    "builtWith": "Створено з любов'ю до знань"
+  },
+  "community": {
+    "title": "Спільнота Нулліанізму",
+    "howToBecomeTitle": "Як стати Нулліанцем?",
+    "howToBecomeText": "Якщо ви поділяєте ідеї, представлені тут, вважайте себе вже Нулліанцем. Формальні процедури не потрібні. Наша релігія децентралізована.",
+    "howToHelpTitle": "Як допомогти проекту?",
+    "bulletShareStrong": "Поділіться",
+    "bulletShareBeforeLink": "цим сайтом і",
+    "bulletShareVideoWord": "відео",
+    "bulletShareAfterLink": "з друзями.",
+    "bulletLikeStrong": "Ставте лайки",
+    "bulletLikeRest": "і залишайте коментарі.",
+    "bulletSuggestStrong": "Пропонуйте свої ідеї",
+    "bulletSuggestRest": "для заповідей та ритуалів через {ISSUES} та {PULLS} у нашому репозиторії.",
+    "bulletSuggestIssues": "Проблеми",
+    "bulletSuggestPulls": "Запити на злиття"
+  },
+  "resources": {
+    "title": "Ресурси",
+    "subtitle": "Тут ви знайдете корисні матеріали та посилання.",
+    "mainMaterialsTitle": "Основні матеріали",
+    "githubRepo": "Репозиторій на GitHub",
+    "videoPresentation": "Відеопрезентація",
+    "recommendedLiteratureTitle": "Рекомендована література",
+    "recommendedPlaceholder": "Список книг та матеріалів буде доданий спільнотою."
+  },
+  "notFound": {
+    "title": "Сторінку не знайдено",
+    "description": "Схоже, ця сторінка ще не матеріалізувалася у нашому всесвіті знань.",
+    "backHome": "Повернутися на головну"
+  }
+}

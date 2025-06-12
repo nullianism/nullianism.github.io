@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Нуллианизм",
+    "description": "Әлемдегі алғашқы ғылыми Ашық-Көзі дін"
+  },
+  "hero": {
+    "title": "Нуллианизм",
+    "subtitle": "Әлемдегі алғашқы ғылыми Ашық-Көзі дін.",
+    "readManifesto": "Манифесті оқу",
+    "joinCommunity": "Қауымдастыққа қосылу"
+  },
+  "navigation": {
+    "home": "Басты бет",
+    "manifesto": "Манифест",
+    "philosophy": "Философия",
+    "commandments": "Өсиеттер",
+    "rituals": "Рәсімдер",
+    "community": "Қауымдастық",
+    "resources": "Ресурстар"
+  },
+  "footer": {
+    "aboutTitle": "Нуллианизм туралы",
+    "aboutDescription": "Әлемдегі алғашқы ғылыми Ашық-Көзі дін, қызығушылық пен сыни ойлауға негізделген.",
+    "navigationTitle": "Навигация",
+    "joinTitle": "Бізге қосылыңыз",
+    "copyright": "Нуллианизм. Ашық Көзі дін.",
+    "builtWith": "Білімге деген сүйіспеншілікпен жасалған"
+  },
+  "community": {
+    "title": "Нуллианизм Қауымдастығы",
+    "howToBecomeTitle": "Нуллиан болу жолы?",
+    "howToBecomeText": "Егер мұнда ұсынылған идеяларды бөліссеңіз, өзіңізді Нуллиан деп санаңыз. Ешқандай ресми рәсімдер қажет емес. Біздің дініміз орталықтандырылмаған.",
+    "howToHelpTitle": "Жобаға қалай көмектесуге болады?",
+    "bulletShareStrong": "Бөлісу",
+    "bulletShareBeforeLink": "осы сайтты және",
+    "bulletShareVideoWord": "бейне",
+    "bulletShareAfterLink": "достарыңызбен.",
+    "bulletLikeStrong": "Лайк басу",
+    "bulletLikeRest": "және пікір қалдыру.",
+    "bulletSuggestStrong": "Өз идеяларыңызды ұсыныңыз",
+    "bulletSuggestRest": "өсиеттер мен рәсімдерге арналған {ISSUES} және {PULLS} арқылы біздің репозиторийде.",
+    "bulletSuggestIssues": "Мәселелер",
+    "bulletSuggestPulls": "Тарту Сұраулары"
+  },
+  "resources": {
+    "title": "Ресурстар",
+    "subtitle": "Мұнда пайдалы материалдар мен сілтемелер бар.",
+    "mainMaterialsTitle": "Негізгі материалдар",
+    "githubRepo": "GitHub репозиториі",
+    "videoPresentation": "Бейне презентация",
+    "recommendedLiteratureTitle": "Ұсынылған әдебиет",
+    "recommendedPlaceholder": "Кітаптар мен материалдардың тізімін қауымдастық қосады."
+  },
+  "notFound": {
+    "title": "Бет табылмады",
+    "description": "Бұл бет біздің білім әлемімізде әлі материалданбаған сияқты.",
+    "backHome": "Басты бетке оралу"
+  }
+}

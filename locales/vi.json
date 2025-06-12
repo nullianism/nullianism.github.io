@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianism",
+    "description": "Tôn giáo mã nguồn mở khoa học đầu tiên trên thế giới"
+  },
+  "hero": {
+    "title": "Nullianism",
+    "subtitle": "Tôn giáo mã nguồn mở khoa học đầu tiên trên thế giới.",
+    "readManifesto": "Đọc Tuyên ngôn",
+    "joinCommunity": "Tham gia Cộng đồng"
+  },
+  "navigation": {
+    "home": "Trang chủ",
+    "manifesto": "Tuyên ngôn",
+    "philosophy": "Triết lý",
+    "commandments": "Giới luật",
+    "rituals": "Nghi lễ",
+    "community": "Cộng đồng",
+    "resources": "Tài nguyên"
+  },
+  "footer": {
+    "aboutTitle": "Về Nullianism",
+    "aboutDescription": "Tôn giáo mã nguồn mở khoa học đầu tiên trên thế giới dựa trên sự tò mò và tư duy phản biện.",
+    "navigationTitle": "Điều hướng",
+    "joinTitle": "Tham gia với chúng tôi",
+    "copyright": "Nullianism. Tôn giáo mã nguồn mở.",
+    "builtWith": "Được xây dựng với tình yêu dành cho tri thức"
+  },
+  "community": {
+    "title": "Cộng đồng Nullianism",
+    "howToBecomeTitle": "Làm thế nào để trở thành một Nullian?",
+    "howToBecomeText": "Nếu bạn chia sẻ những ý tưởng được trình bày ở đây, hãy coi mình đã là một Nullian. Không cần thủ tục chính thức. Tôn giáo của chúng tôi là phi tập trung.",
+    "howToHelpTitle": "Làm thế nào để giúp đỡ dự án?",
+    "bulletShareStrong": "Chia sẻ",
+    "bulletShareBeforeLink": "trang web này và",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "với bạn bè.",
+    "bulletLikeStrong": "Thích",
+    "bulletLikeRest": "và để lại bình luận.",
+    "bulletSuggestStrong": "Đề xuất ý tưởng của bạn",
+    "bulletSuggestRest": "cho giới luật và nghi lễ qua {ISSUES} và {PULLS} trong kho lưu trữ của chúng tôi.",
+    "bulletSuggestIssues": "Vấn đề",
+    "bulletSuggestPulls": "Yêu cầu Kéo"
+  },
+  "resources": {
+    "title": "Tài nguyên",
+    "subtitle": "Dưới đây là các tài liệu và liên kết hữu ích.",
+    "mainMaterialsTitle": "Tài liệu chính",
+    "githubRepo": "Kho lưu trữ GitHub",
+    "videoPresentation": "Bài thuyết trình video",
+    "recommendedLiteratureTitle": "Tài liệu khuyến nghị",
+    "recommendedPlaceholder": "Danh sách sách và tài liệu sẽ được cộng đồng thêm vào."
+  },
+  "notFound": {
+    "title": "Không tìm thấy trang",
+    "description": "Có vẻ như trang này chưa hiện diện trong vũ trụ tri thức của chúng ta.",
+    "backHome": "Quay lại trang chủ"
+  }
+}

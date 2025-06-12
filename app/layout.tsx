@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 import { SITE_NAME, SITE_DESCRIPTION, SITE_URL } from "@/lib/constants";
+import LocaleRedirect from "@/components/LocaleRedirect";
 
 const inter = Inter({
   subsets: ["latin", "cyrillic"],
@@ -24,11 +25,11 @@ export const metadata: Metadata = {
     description: SITE_DESCRIPTION,
     url: SITE_URL,
     siteName: SITE_NAME,
-    locale: 'ru_RU',
-    type: 'website',
+    locale: "en_US",
+    type: "website",
   },
   twitter: {
-    card: 'summary_large_image',
+    card: "summary_large_image",
     title: SITE_NAME,
     description: SITE_DESCRIPTION,
   },
@@ -44,10 +45,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="ru" className="dark bg-black">
+    <html lang="en" className="dark bg-black">
       <body
         className={`${inter.variable} ${spaceGrotesk.variable} font-sans antialiased bg-black text-white min-h-screen`}
       >
+        <LocaleRedirect />
         {children}
       </body>
     </html>

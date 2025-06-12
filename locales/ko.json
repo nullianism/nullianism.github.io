@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "널리어니즘",
+    "description": "세계 최초의 과학적 오픈 소스 종교"
+  },
+  "hero": {
+    "title": "널리어니즘",
+    "subtitle": "세계 최초의 과학적 오픈 소스 종교.",
+    "readManifesto": "선언문 읽기",
+    "joinCommunity": "커뮤니티 가입"
+  },
+  "navigation": {
+    "home": "홈",
+    "manifesto": "선언문",
+    "philosophy": "철학",
+    "commandments": "계율",
+    "rituals": "의식",
+    "community": "커뮤니티",
+    "resources": "자료"
+  },
+  "footer": {
+    "aboutTitle": "널리어니즘 소개",
+    "aboutDescription": "호기심과 비판적 사고에 기반한 세계 최초의 과학적 오픈 소스 종교.",
+    "navigationTitle": "탐색",
+    "joinTitle": "가입하기",
+    "copyright": "널리어니즘. 오픈 소스 종교.",
+    "builtWith": "지식에 대한 사랑으로 제작됨"
+  },
+  "community": {
+    "title": "널리어니즘 커뮤니티",
+    "howToBecomeTitle": "널리어니스트가 되는 방법?",
+    "howToBecomeText": "여기 제시된 아이디어에 동의한다면, 이미 널리어니스트입니다. 공식 절차는 필요하지 않습니다. 우리의 종교는 분산되어 있습니다.",
+    "howToHelpTitle": "프로젝트를 돕는 방법?",
+    "bulletShareStrong": "공유하기",
+    "bulletShareBeforeLink": "이 사이트와",
+    "bulletShareVideoWord": "비디오",
+    "bulletShareAfterLink": "를 친구들과 함께.",
+    "bulletLikeStrong": "좋아요 누르기",
+    "bulletLikeRest": "및 댓글 남기기.",
+    "bulletSuggestStrong": "아이디어 제안하기",
+    "bulletSuggestRest": "계율과 의식에 대한 아이디어를 우리 저장소의 {ISSUES} 및 {PULLS}를 통해 제안하세요.",
+    "bulletSuggestIssues": "이슈",
+    "bulletSuggestPulls": "풀 리퀘스트"
+  },
+  "resources": {
+    "title": "자료",
+    "subtitle": "유용한 자료와 링크가 있습니다.",
+    "mainMaterialsTitle": "주요 자료",
+    "githubRepo": "GitHub 저장소",
+    "videoPresentation": "비디오 발표",
+    "recommendedLiteratureTitle": "추천 도서",
+    "recommendedPlaceholder": "책과 자료 목록은 커뮤니티에 의해 추가될 것입니다."
+  },
+  "notFound": {
+    "title": "페이지를 찾을 수 없음",
+    "description": "이 페이지가 아직 우리의 지식 우주에 구현되지 않은 것 같습니다.",
+    "backHome": "홈으로 돌아가기"
+  }
+}

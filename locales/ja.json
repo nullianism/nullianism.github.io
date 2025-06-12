@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "ヌリアニズム",
+    "description": "世界初の科学的オープンソース宗教"
+  },
+  "hero": {
+    "title": "ヌリアニズム",
+    "subtitle": "世界初の科学的オープンソース宗教。",
+    "readManifesto": "マニフェストを読む",
+    "joinCommunity": "コミュニティに参加"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "manifesto": "マニフェスト",
+    "philosophy": "哲学",
+    "commandments": "戒律",
+    "rituals": "儀式",
+    "community": "コミュニティ",
+    "resources": "リソース"
+  },
+  "footer": {
+    "aboutTitle": "ヌリアニズムについて",
+    "aboutDescription": "好奇心と批判的思考に基づく世界初の科学的オープンソース宗教。",
+    "navigationTitle": "ナビゲーション",
+    "joinTitle": "参加する",
+    "copyright": "ヌリアニズム。オープンソース宗教。",
+    "builtWith": "知識への愛を込めて構築"
+  },
+  "community": {
+    "title": "ヌリアニズムコミュニティ",
+    "howToBecomeTitle": "ヌリアンになる方法は？",
+    "howToBecomeText": "ここで提示されたアイデアを共有する場合、すでにヌリアンとみなしてください。正式な手続きは必要ありません。私たちの宗教は分散型です。",
+    "howToHelpTitle": "プロジェクトを支援する方法は？",
+    "bulletShareStrong": "共有する",
+    "bulletShareBeforeLink": "このサイトと",
+    "bulletShareVideoWord": "ビデオ",
+    "bulletShareAfterLink": "を友人と。",
+    "bulletLikeStrong": "いいねを押す",
+    "bulletLikeRest": "そしてコメントを残す。",
+    "bulletSuggestStrong": "アイデアを提案する",
+    "bulletSuggestRest": "私たちのリポジトリの{ISSUES}と{PULLS}を通じて戒律と儀式のために。",
+    "bulletSuggestIssues": "イシュー",
+    "bulletSuggestPulls": "プルリクエスト"
+  },
+  "resources": {
+    "title": "リソース",
+    "subtitle": "ここに有用な資料とリンクがあります。",
+    "mainMaterialsTitle": "主要な資料",
+    "githubRepo": "GitHubリポジトリ",
+    "videoPresentation": "ビデオプレゼンテーション",
+    "recommendedLiteratureTitle": "推奨文献",
+    "recommendedPlaceholder": "本と資料のリストはコミュニティによって追加されます。"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "description": "このページはまだ私たちの知識の宇宙に現れていないようです。",
+    "backHome": "ホームに戻る"
+  }
+}

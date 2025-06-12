@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nulijanizam",
+    "description": "Prva naučna Open-Source religija na svetu"
+  },
+  "hero": {
+    "title": "Nulijanizam",
+    "subtitle": "Prva naučna Open-Source religija na svetu.",
+    "readManifesto": "Pročitaj Manifest",
+    "joinCommunity": "Pridruži se Zajednici"
+  },
+  "navigation": {
+    "home": "Početna",
+    "manifesto": "Manifest",
+    "philosophy": "Filozofija",
+    "commandments": "Zapovesti",
+    "rituals": "Rituali",
+    "community": "Zajednica",
+    "resources": "Resursi"
+  },
+  "footer": {
+    "aboutTitle": "O Nulijanizmu",
+    "aboutDescription": "Prva naučna Open-Source religija na svetu zasnovana na radoznalosti i kritičkom razmišljanju.",
+    "navigationTitle": "Navigacija",
+    "joinTitle": "Pridruži nam se",
+    "copyright": "Nulijanizam. Open Source religija.",
+    "builtWith": "Izgrađeno s ljubavlju prema znanju"
+  },
+  "community": {
+    "title": "Zajednica Nulijanizma",
+    "howToBecomeTitle": "Kako postati Nulijan?",
+    "howToBecomeText": "Ako delite ideje predstavljene ovde, već se smatrate Nulijanom. Nisu potrebne formalne procedure. Naša religija je decentralizovana.",
+    "howToHelpTitle": "Kako pomoći projektu?",
+    "bulletShareStrong": "Podeli",
+    "bulletShareBeforeLink": "ovaj sajt i",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "sa prijateljima.",
+    "bulletLikeStrong": "Dajte lajkove",
+    "bulletLikeRest": "i ostavite komentare.",
+    "bulletSuggestStrong": "Predložite svoje ideje",
+    "bulletSuggestRest": "za zapovesti i rituale putem {ISSUES} i {PULLS} u našem repozitorijumu.",
+    "bulletSuggestIssues": "Problemi",
+    "bulletSuggestPulls": "Zahtevi za povlačenje"
+  },
+  "resources": {
+    "title": "Resursi",
+    "subtitle": "Ovde su korisni materijali i linkovi.",
+    "mainMaterialsTitle": "Ključni materijali",
+    "githubRepo": "GitHub repozitorijum",
+    "videoPresentation": "Video prezentacija",
+    "recommendedLiteratureTitle": "Preporučena literatura",
+    "recommendedPlaceholder": "Lista knjiga i materijala će biti dodata od strane zajednice."
+  },
+  "notFound": {
+    "title": "Stranica nije pronađena",
+    "description": "Izgleda da se ova stranica još nije materijalizovala u našem univerzumu znanja.",
+    "backHome": "Povratak na početnu"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianism",
+    "description": "The world's first scientific Open-Source religion"
+  },
+  "hero": {
+    "title": "Nullianism",
+    "subtitle": "The world's first scientific Open-Source religion.",
+    "readManifesto": "Read Manifesto",
+    "joinCommunity": "Join Community"
+  },
+  "navigation": {
+    "home": "Home",
+    "manifesto": "Manifesto",
+    "philosophy": "Philosophy",
+    "commandments": "Commandments",
+    "rituals": "Rituals",
+    "community": "Community",
+    "resources": "Resources"
+  },
+  "footer": {
+    "aboutTitle": "About Nullianism",
+    "aboutDescription": "The world's first scientific Open-Source religion based on curiosity and critical thinking.",
+    "navigationTitle": "Navigation",
+    "joinTitle": "Join Us",
+    "copyright": "Nullianism. Open Source religion.",
+    "builtWith": "Built with love for knowledge"
+  },
+  "community": {
+    "title": "Nullianism Community",
+    "howToBecomeTitle": "How to become a Nullian?",
+    "howToBecomeText": "If you share the ideas presented here, consider yourself already a Nullian. No formal procedures are required. Our religion is decentralized.",
+    "howToHelpTitle": "How to help the project?",
+    "bulletShareStrong": "Share",
+    "bulletShareBeforeLink": "this site and",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "with friends.",
+    "bulletLikeStrong": "Give likes",
+    "bulletLikeRest": "and leave comments.",
+    "bulletSuggestStrong": "Suggest your ideas",
+    "bulletSuggestRest": "for commandments and rituals via {ISSUES} and {PULLS} in our repository.",
+    "bulletSuggestIssues": "Issues",
+    "bulletSuggestPulls": "Pull Requests"
+  },
+  "resources": {
+    "title": "Resources",
+    "subtitle": "Here are useful materials and links.",
+    "mainMaterialsTitle": "Key materials",
+    "githubRepo": "GitHub repository",
+    "videoPresentation": "Video presentation",
+    "recommendedLiteratureTitle": "Recommended literature",
+    "recommendedPlaceholder": "The list of books and materials will be added by the community."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "It looks like this page has not yet materialized in our universe of knowledge.",
+    "backHome": "Return to home"
+  }
+}

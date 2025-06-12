@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianizm",
+    "description": "Pierwsza na świecie naukowa religia Open-Source"
+  },
+  "hero": {
+    "title": "Nullianizm",
+    "subtitle": "Pierwsza na świecie naukowa religia Open-Source.",
+    "readManifesto": "Przeczytaj Manifest",
+    "joinCommunity": "Dołącz do Społeczności"
+  },
+  "navigation": {
+    "home": "Strona główna",
+    "manifesto": "Manifest",
+    "philosophy": "Filozofia",
+    "commandments": "Przykazania",
+    "rituals": "Rytuały",
+    "community": "Społeczność",
+    "resources": "Zasoby"
+  },
+  "footer": {
+    "aboutTitle": "O Nullianizmie",
+    "aboutDescription": "Pierwsza na świecie naukowa religia Open-Source oparta na ciekawości i krytycznym myśleniu.",
+    "navigationTitle": "Nawigacja",
+    "joinTitle": "Dołącz do nas",
+    "copyright": "Nullianizm. Religia Open Source.",
+    "builtWith": "Zbudowane z miłością do wiedzy"
+  },
+  "community": {
+    "title": "Społeczność Nullianizmu",
+    "howToBecomeTitle": "Jak zostać Nullianinem?",
+    "howToBecomeText": "Jeśli podzielasz przedstawione tutaj idee, już jesteś Nullianinem. Nie są wymagane żadne formalne procedury. Nasza religia jest zdecentralizowana.",
+    "howToHelpTitle": "Jak pomóc projektowi?",
+    "bulletShareStrong": "Udostępnij",
+    "bulletShareBeforeLink": "tę stronę i",
+    "bulletShareVideoWord": "wideo",
+    "bulletShareAfterLink": "znajomym.",
+    "bulletLikeStrong": "Daj lajki",
+    "bulletLikeRest": "i zostaw komentarze.",
+    "bulletSuggestStrong": "Zaproponuj swoje pomysły",
+    "bulletSuggestRest": "na przykazania i rytuały przez {ISSUES} i {PULLS} w naszym repozytorium.",
+    "bulletSuggestIssues": "Problemy",
+    "bulletSuggestPulls": "Żądania ściągnięcia"
+  },
+  "resources": {
+    "title": "Zasoby",
+    "subtitle": "Oto przydatne materiały i linki.",
+    "mainMaterialsTitle": "Kluczowe materiały",
+    "githubRepo": "Repozytorium GitHub",
+    "videoPresentation": "Prezentacja wideo",
+    "recommendedLiteratureTitle": "Polecana literatura",
+    "recommendedPlaceholder": "Lista książek i materiałów zostanie dodana przez społeczność."
+  },
+  "notFound": {
+    "title": "Strona nie znaleziona",
+    "description": "Wygląda na to, że ta strona jeszcze nie zmaterializowała się w naszym wszechświecie wiedzy.",
+    "backHome": "Powrót do strony głównej"
+  }
+}

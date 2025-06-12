@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianismus",
+    "description": "Die weltweit erste wissenschaftliche Open-Source-Religion"
+  },
+  "hero": {
+    "title": "Nullianismus",
+    "subtitle": "Die weltweit erste wissenschaftliche Open-Source-Religion.",
+    "readManifesto": "Manifest lesen",
+    "joinCommunity": "Community beitreten"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "manifesto": "Manifest",
+    "philosophy": "Philosophie",
+    "commandments": "Gebote",
+    "rituals": "Rituale",
+    "community": "Gemeinschaft",
+    "resources": "Ressourcen"
+  },
+  "footer": {
+    "aboutTitle": "Über Nullianismus",
+    "aboutDescription": "Die weltweit erste wissenschaftliche Open-Source-Religion, basierend auf Neugier und kritischem Denken.",
+    "navigationTitle": "Navigation",
+    "joinTitle": "Treten Sie bei",
+    "copyright": "Nullianismus. Open-Source-Religion.",
+    "builtWith": "Mit Liebe zum Wissen erstellt"
+  },
+  "community": {
+    "title": "Nullianismus-Gemeinschaft",
+    "howToBecomeTitle": "Wie wird man ein Nullian?",
+    "howToBecomeText": "Wenn Sie die hier vorgestellten Ideen teilen, betrachten Sie sich bereits als Nullian. Keine formalen Verfahren sind erforderlich. Unsere Religion ist dezentralisiert.",
+    "howToHelpTitle": "Wie kann man das Projekt unterstützen?",
+    "bulletShareStrong": "Teilen",
+    "bulletShareBeforeLink": "diese Seite und",
+    "bulletShareVideoWord": "Video",
+    "bulletShareAfterLink": "mit Freunden.",
+    "bulletLikeStrong": "Geben Sie Likes",
+    "bulletLikeRest": "und hinterlassen Sie Kommentare.",
+    "bulletSuggestStrong": "Schlagen Sie Ihre Ideen vor",
+    "bulletSuggestRest": "für Gebote und Rituale über {ISSUES} und {PULLS} in unserem Repository.",
+    "bulletSuggestIssues": "Issues",
+    "bulletSuggestPulls": "Pull Requests"
+  },
+  "resources": {
+    "title": "Ressourcen",
+    "subtitle": "Hier sind nützliche Materialien und Links.",
+    "mainMaterialsTitle": "Hauptmaterialien",
+    "githubRepo": "GitHub-Repository",
+    "videoPresentation": "Video-Präsentation",
+    "recommendedLiteratureTitle": "Empfohlene Literatur",
+    "recommendedPlaceholder": "Die Liste der Bücher und Materialien wird von der Gemeinschaft hinzugefügt."
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Es sieht so aus, als hätte sich diese Seite noch nicht in unserem Wissensuniversum materialisiert.",
+    "backHome": "Zurück zur Startseite"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianisms",
+    "description": "Pasaulē pirmā zinātniskā Atvērtā koda reliģija"
+  },
+  "hero": {
+    "title": "Nullianisms",
+    "subtitle": "Pasaulē pirmā zinātniskā Atvērtā koda reliģija.",
+    "readManifesto": "Lasīt Manifestu",
+    "joinCommunity": "Pievienoties Kopienai"
+  },
+  "navigation": {
+    "home": "Sākums",
+    "manifesto": "Manifests",
+    "philosophy": "Filosofija",
+    "commandments": "Baušļi",
+    "rituals": "Rituāli",
+    "community": "Kopiena",
+    "resources": "Resursi"
+  },
+  "footer": {
+    "aboutTitle": "Par Nullianismu",
+    "aboutDescription": "Pasaulē pirmā zinātniskā Atvērtā koda reliģija, kas balstīta uz ziņkāri un kritisko domāšanu.",
+    "navigationTitle": "Navigācija",
+    "joinTitle": "Pievienojies Mums",
+    "copyright": "Nullianisms. Atvērtā koda reliģija.",
+    "builtWith": "Veidots ar mīlestību pret zināšanām"
+  },
+  "community": {
+    "title": "Nullianisma Kopiena",
+    "howToBecomeTitle": "Kā kļūt par Nullianu?",
+    "howToBecomeText": "Ja dalāties ar šeit izklāstītajām idejām, uzskatiet sevi jau par Nullianu. Nav nepieciešamas formālas procedūras. Mūsu reliģija ir decentralizēta.",
+    "howToHelpTitle": "Kā palīdzēt projektam?",
+    "bulletShareStrong": "Dalīties",
+    "bulletShareBeforeLink": "ar šo vietni un",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "ar draugiem.",
+    "bulletLikeStrong": "Dodiet patīk",
+    "bulletLikeRest": "un atstājiet komentārus.",
+    "bulletSuggestStrong": "Iesakiet savas idejas",
+    "bulletSuggestRest": "par baušļiem un rituāliem caur {ISSUES} un {PULLS} mūsu repozitorijā.",
+    "bulletSuggestIssues": "Jautājumi",
+    "bulletSuggestPulls": "Pievilkšanas Pieprasījumi"
+  },
+  "resources": {
+    "title": "Resursi",
+    "subtitle": "Šeit ir noderīgi materiāli un saites.",
+    "mainMaterialsTitle": "Galvenie materiāli",
+    "githubRepo": "GitHub repozitorijs",
+    "videoPresentation": "Video prezentācija",
+    "recommendedLiteratureTitle": "Ieteicamā literatūra",
+    "recommendedPlaceholder": "Grāmatu un materiālu sarakstu pievienos kopiena."
+  },
+  "notFound": {
+    "title": "Lapa nav atrasta",
+    "description": "Izskatās, ka šī lapa vēl nav materializējusies mūsu zināšanu visumā.",
+    "backHome": "Atgriezties sākumā"
+  }
+}

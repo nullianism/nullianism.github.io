@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianism",
+    "description": "Prima religie științifică Open-Source din lume"
+  },
+  "hero": {
+    "title": "Nullianism",
+    "subtitle": "Prima religie științifică Open-Source din lume.",
+    "readManifesto": "Citește Manifestul",
+    "joinCommunity": "Alătură-te Comunității"
+  },
+  "navigation": {
+    "home": "Acasă",
+    "manifesto": "Manifest",
+    "philosophy": "Filosofie",
+    "commandments": "Porunci",
+    "rituals": "Ritualuri",
+    "community": "Comunitate",
+    "resources": "Resurse"
+  },
+  "footer": {
+    "aboutTitle": "Despre Nullianism",
+    "aboutDescription": "Prima religie științifică Open-Source din lume bazată pe curiozitate și gândire critică.",
+    "navigationTitle": "Navigare",
+    "joinTitle": "Alătură-te nouă",
+    "copyright": "Nullianism. Religie Open Source.",
+    "builtWith": "Creat cu dragoste pentru cunoaștere"
+  },
+  "community": {
+    "title": "Comunitatea Nullianism",
+    "howToBecomeTitle": "Cum să devii un Nullian?",
+    "howToBecomeText": "Dacă împărtășești ideile prezentate aici, consideră-te deja un Nullian. Nu sunt necesare proceduri formale. Religia noastră este descentralizată.",
+    "howToHelpTitle": "Cum să ajuți proiectul?",
+    "bulletShareStrong": "Distribuie",
+    "bulletShareBeforeLink": "acest site și",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "cu prietenii.",
+    "bulletLikeStrong": "Dă like-uri",
+    "bulletLikeRest": "și lasă comentarii.",
+    "bulletSuggestStrong": "Sugerează-ți ideile",
+    "bulletSuggestRest": "pentru porunci și ritualuri prin {ISSUES} și {PULLS} în depozitul nostru.",
+    "bulletSuggestIssues": "Probleme",
+    "bulletSuggestPulls": "Cereri de extragere"
+  },
+  "resources": {
+    "title": "Resurse",
+    "subtitle": "Aici sunt materiale și linkuri utile.",
+    "mainMaterialsTitle": "Materiale cheie",
+    "githubRepo": "Depozit GitHub",
+    "videoPresentation": "Prezentare video",
+    "recommendedLiteratureTitle": "Literatură recomandată",
+    "recommendedPlaceholder": "Lista de cărți și materiale va fi adăugată de comunitate."
+  },
+  "notFound": {
+    "title": "Pagină negăsită",
+    "description": "Se pare că această pagină nu s-a materializat încă în universul nostru de cunoaștere.",
+    "backHome": "Întoarce-te acasă"
+  }
+}

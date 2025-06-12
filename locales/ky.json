@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Нуллианизм",
+    "description": "Дүйнөдөгү биринчи илимий Ачык Булак дин"
+  },
+  "hero": {
+    "title": "Нуллианизм",
+    "subtitle": "Дүйнөдөгү биринчи илимий Ачык Булак дин.",
+    "readManifesto": "Манифестти окуу",
+    "joinCommunity": "Жамаатка кошулуу"
+  },
+  "navigation": {
+    "home": "Башкы бет",
+    "manifesto": "Манифест",
+    "philosophy": "Философия",
+    "commandments": "Буйруктар",
+    "rituals": "Ритуалдар",
+    "community": "Жамаат",
+    "resources": "Ресурстар"
+  },
+  "footer": {
+    "aboutTitle": "Нуллианизм жөнүндө",
+    "aboutDescription": "Кызыгуу жана сынчыл ой жүгүртүү негизинде түзүлгөн дүйнөдөгү биринчи илимий Ачык Булак дин.",
+    "navigationTitle": "Навигация",
+    "joinTitle": "Бизге кошулуу",
+    "copyright": "Нуллианизм. Ачык Булак дин.",
+    "builtWith": "Билимге болгон сүйүү менен курулган"
+  },
+  "community": {
+    "title": "Нуллианизм Жамааты",
+    "howToBecomeTitle": "Кантип Нуллиан болууга болот?",
+    "howToBecomeText": "Бул жерде сунушталган идеяларды бөлүшсөңүз, өзүңүздү Нуллиан деп эсептеңиз. Эч кандай расмий процедуралар талап кылынбайт. Биздин дин борборлоштурулган эмес.",
+    "howToHelpTitle": "Долбоорго кантип жардам берсе болот?",
+    "bulletShareStrong": "Бөлүшүү",
+    "bulletShareBeforeLink": "бул сайтты жана",
+    "bulletShareVideoWord": "видеону",
+    "bulletShareAfterLink": "достор менен.",
+    "bulletLikeStrong": "Лайк берүү",
+    "bulletLikeRest": "жана комментарий калтыруу.",
+    "bulletSuggestStrong": "Идеяларыңызды сунуштаңыз",
+    "bulletSuggestRest": "буюруктар жана ритуалдар үчүн биздин репозиторийдеги {ISSUES} жана {PULLS} аркылуу.",
+    "bulletSuggestIssues": "Маселелер",
+    "bulletSuggestPulls": "Тартуу Сунуштары"
+  },
+  "resources": {
+    "title": "Ресурстар",
+    "subtitle": "Бул жерде пайдалуу материалдар жана шилтемелер бар.",
+    "mainMaterialsTitle": "Негизги материалдар",
+    "githubRepo": "GitHub репозиторийи",
+    "videoPresentation": "Видео презентация",
+    "recommendedLiteratureTitle": "Сунушталган адабият",
+    "recommendedPlaceholder": "Китептер жана материалдардын тизмеси жамаат тарабынан кошулат."
+  },
+  "notFound": {
+    "title": "Баракча табылган жок",
+    "description": "Бул баракча биздин билим ааламында али материалдашкан эмес окшойт.",
+    "backHome": "Башкы бетке кайтуу"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianismus",
+    "description": "Prima scientifica religio Open-Source mundi"
+  },
+  "hero": {
+    "title": "Nullianismus",
+    "subtitle": "Prima scientifica religio Open-Source mundi.",
+    "readManifesto": "Legere Manifestum",
+    "joinCommunity": "Coniungere Communitatem"
+  },
+  "navigation": {
+    "home": "Domus",
+    "manifesto": "Manifestum",
+    "philosophy": "Philosophia",
+    "commandments": "Praecepta",
+    "rituals": "Ritualia",
+    "community": "Communitas",
+    "resources": "Opes"
+  },
+  "footer": {
+    "aboutTitle": "De Nullianismo",
+    "aboutDescription": "Prima scientifica religio Open-Source mundi curiositate et cogitatione critica fundata.",
+    "navigationTitle": "Navigatio",
+    "joinTitle": "Coniungere Nobis",
+    "copyright": "Nullianismus. Religio Open Source.",
+    "builtWith": "Aedificatum cum amore scientiae"
+  },
+  "community": {
+    "title": "Communitas Nullianismi",
+    "howToBecomeTitle": "Quomodo fieri Nullianus?",
+    "howToBecomeText": "Si ideas hic praesentatas participas, te iam Nullianum considera. Nulla forma procedendi requiritur. Nostra religio decentralizata est.",
+    "howToHelpTitle": "Quomodo adiuvare projectum?",
+    "bulletShareStrong": "Communica",
+    "bulletShareBeforeLink": "hoc situm et",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "cum amicis.",
+    "bulletLikeStrong": "Da laudes",
+    "bulletLikeRest": "et commentarios relinque.",
+    "bulletSuggestStrong": "Suggerere tuas ideas",
+    "bulletSuggestRest": "pro praeceptis et ritualibus per {ISSUES} et {PULLS} in nostro repositorio.",
+    "bulletSuggestIssues": "Quaestiones",
+    "bulletSuggestPulls": "Petitiones Trahendi"
+  },
+  "resources": {
+    "title": "Opes",
+    "subtitle": "Hic sunt utilia materia et nexus.",
+    "mainMaterialsTitle": "Claves materiae",
+    "githubRepo": "Repositorium GitHub",
+    "videoPresentation": "Praesentatio Video",
+    "recommendedLiteratureTitle": "Litteratura commendata",
+    "recommendedPlaceholder": "Index librorum et materiarum a communitate addetur."
+  },
+  "notFound": {
+    "title": "Pagina non inventa",
+    "description": "Videtur haec pagina nondum in nostro universo scientiae materializata esse.",
+    "backHome": "Redire ad domum"
+  }
+}

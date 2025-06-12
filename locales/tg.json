@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Нуллианизм",
+    "description": "Аввалин дини илмии кушодаасоси ҷаҳон"
+  },
+  "hero": {
+    "title": "Нуллианизм",
+    "subtitle": "Аввалин дини илмии кушодаасоси ҷаҳон.",
+    "readManifesto": "Манифестро хонед",
+    "joinCommunity": "Ба ҷомеа ҳамроҳ шавед"
+  },
+  "navigation": {
+    "home": "Саҳифаи асосӣ",
+    "manifesto": "Манифест",
+    "philosophy": "Фалсафа",
+    "commandments": "Фармонҳо",
+    "rituals": "Маросимҳо",
+    "community": "Ҷомеа",
+    "resources": "Захираҳо"
+  },
+  "footer": {
+    "aboutTitle": "Дар бораи Нуллианизм",
+    "aboutDescription": "Аввалин дини илмии кушодаасоси ҷаҳон, ки ба кунҷковӣ ва тафаккури танқидӣ асос ёфтааст.",
+    "navigationTitle": "Навигатсия",
+    "joinTitle": "Ба мо ҳамроҳ шавед",
+    "copyright": "Нуллианизм. Дини кушодаасос.",
+    "builtWith": "Бо муҳаббат ба дониш сохта шудааст"
+  },
+  "community": {
+    "title": "Ҷомеаи Нуллианизм",
+    "howToBecomeTitle": "Чӣ тавр Нуллиан шудан мумкин аст?",
+    "howToBecomeText": "Агар шумо идеяҳои дар ин ҷо пешниҳодшударо дастгирӣ кунед, худро аллакай Нуллиан ҳисоб кунед. Ҳеҷ гуна расмиёти расмӣ талаб карда намешавад. Дини мо децентрализатсия шудааст.",
+    "howToHelpTitle": "Чӣ тавр ба лоиҳа кӯмак расондан мумкин аст?",
+    "bulletShareStrong": "Мубодила кунед",
+    "bulletShareBeforeLink": "ин сайт ва",
+    "bulletShareVideoWord": "видео",
+    "bulletShareAfterLink": "бо дӯстон.",
+    "bulletLikeStrong": "Лайк гузоред",
+    "bulletLikeRest": "ва шарҳҳо гузоред.",
+    "bulletSuggestStrong": "Идеяҳои худро пешниҳод кунед",
+    "bulletSuggestRest": "барои фармонҳо ва маросимҳо тавассути {ISSUES} ва {PULLS} дар анбори мо.",
+    "bulletSuggestIssues": "Масъалаҳо",
+    "bulletSuggestPulls": "Дархостҳои кашидан"
+  },
+  "resources": {
+    "title": "Захираҳо",
+    "subtitle": "Инҷо маводҳо ва пайвандҳои муфид ҳастанд.",
+    "mainMaterialsTitle": "Маводҳои асосӣ",
+    "githubRepo": "Анбори GitHub",
+    "videoPresentation": "Презентатсияи видео",
+    "recommendedLiteratureTitle": "Адабиёти тавсияшаванда",
+    "recommendedPlaceholder": "Рӯйхати китобҳо ва маводҳо аз ҷониби ҷомеа илова карда мешавад."
+  },
+  "notFound": {
+    "title": "Саҳифа ёфт нашуд",
+    "description": "Ба назар мерасад, ки ин саҳифа ҳанӯз дар олами донишҳои мо мавҷуд нашудааст.",
+    "backHome": "Ба хона баргардед"
+  }
+}

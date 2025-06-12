@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "Nullianizm",
+    "description": "Dunyoning birinchi ilmiy Ochiq Manba dini"
+  },
+  "hero": {
+    "title": "Nullianizm",
+    "subtitle": "Dunyoning birinchi ilmiy Ochiq Manba dini.",
+    "readManifesto": "Manifestni o'qing",
+    "joinCommunity": "Jamiyatga qo'shiling"
+  },
+  "navigation": {
+    "home": "Bosh sahifa",
+    "manifesto": "Manifest",
+    "philosophy": "Falsafa",
+    "commandments": "Buyruqlar",
+    "rituals": "Rituallar",
+    "community": "Jamiyat",
+    "resources": "Resurslar"
+  },
+  "footer": {
+    "aboutTitle": "Nullianizm haqida",
+    "aboutDescription": "Qiziquvchanlik va tanqidiy fikrlashga asoslangan dunyoning birinchi ilmiy Ochiq Manba dini.",
+    "navigationTitle": "Navigatsiya",
+    "joinTitle": "Bizga qo'shiling",
+    "copyright": "Nullianizm. Ochiq Manba dini.",
+    "builtWith": "Bilimga bo'lgan muhabbat bilan yaratilgan"
+  },
+  "community": {
+    "title": "Nullianizm Jamiyati",
+    "howToBecomeTitle": "Qanday qilib Nullian bo'lish mumkin?",
+    "howToBecomeText": "Agar siz bu yerda taqdim etilgan g'oyalarni qo'llab-quvvatlasangiz, o'zingizni allaqachon Nullian deb hisoblang. Hech qanday rasmiy tartiblar talab qilinmaydi. Bizning dinimiz markazlashmagan.",
+    "howToHelpTitle": "Loyihaga qanday yordam berish mumkin?",
+    "bulletShareStrong": "Ulashish",
+    "bulletShareBeforeLink": "bu sayt va",
+    "bulletShareVideoWord": "video",
+    "bulletShareAfterLink": "bilan do'stlaringiz.",
+    "bulletLikeStrong": "Layk bering",
+    "bulletLikeRest": "va izoh qoldiring.",
+    "bulletSuggestStrong": "O'z g'oyalaringizni taklif qiling",
+    "bulletSuggestRest": "buyruqlar va rituallar uchun bizning omborimizdagi {ISSUES} va {PULLS} orqali.",
+    "bulletSuggestIssues": "Masalalar",
+    "bulletSuggestPulls": "Pull So'rovlar"
+  },
+  "resources": {
+    "title": "Resurslar",
+    "subtitle": "Mana foydali materiallar va havolalar.",
+    "mainMaterialsTitle": "Asosiy materiallar",
+    "githubRepo": "GitHub ombori",
+    "videoPresentation": "Video taqdimot",
+    "recommendedLiteratureTitle": "Tavsiya etilgan adabiyot",
+    "recommendedPlaceholder": "Kitoblar va materiallar ro'yxati jamiyat tomonidan qo'shiladi."
+  },
+  "notFound": {
+    "title": "Sahifa topilmadi",
+    "description": "Ko'rinib turibdiki, bu sahifa hali bizning bilim olamimizda mavjud emas.",
+    "backHome": "Bosh sahifaga qaytish"
+  }
+}

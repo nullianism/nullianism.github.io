@@ -1,0 +1,59 @@
+{
+  "site": {
+    "name": "نلیانزم",
+    "description": "دنیا دا پہلا سائنسی اوپن سورس مذہب"
+  },
+  "hero": {
+    "title": "نلیانزم",
+    "subtitle": "دنیا دا پہلا سائنسی اوپن سورس مذہب.",
+    "readManifesto": "منشور پڑھو",
+    "joinCommunity": "کمیونٹی وچ شامل ہوو"
+  },
+  "navigation": {
+    "home": "گھر",
+    "manifesto": "منشور",
+    "philosophy": "فلسفہ",
+    "commandments": "احکامات",
+    "rituals": "رسومات",
+    "community": "کمیونٹی",
+    "resources": "وسائل"
+  },
+  "footer": {
+    "aboutTitle": "نلیانزم بارے",
+    "aboutDescription": "دنیا دا پہلا سائنسی اوپن سورس مذہب جو تجسس تے تنقیدی سوچ اُتے مبنی اے.",
+    "navigationTitle": "نیویگیشن",
+    "joinTitle": "سانوں جوائن کرو",
+    "copyright": "نلیانزم۔ اوپن سورس مذہب.",
+    "builtWith": "علم نال محبت نال بنایا گیا"
+  },
+  "community": {
+    "title": "نلیانزم کمیونٹی",
+    "howToBecomeTitle": "نلیان کیویں بننا اے؟",
+    "howToBecomeText": "جے تسی ایتھے پیش کیتیاں گئیاں خیالات نال متفق ہو، تاں اپنے آپ نوں پہلے ای نلیان سمجھو۔ کوئی رسمی طریقہ کار دی لوڑ نئیں۔ ساڈا مذہب غیر مرکزی اے۔",
+    "howToHelpTitle": "پروجیکٹ دی مدد کیویں کرنی اے؟",
+    "bulletShareStrong": "شیئر کرو",
+    "bulletShareBeforeLink": "ایہہ ویب سائٹ تے",
+    "bulletShareVideoWord": "ویڈیو",
+    "bulletShareAfterLink": "دوستاں نال شیئر کرو۔",
+    "bulletLikeStrong": "لائکس دو",
+    "bulletLikeRest": "تے تبصرے چھوڑو۔",
+    "bulletSuggestStrong": "اپنے خیالات پیش کرو",
+    "bulletSuggestRest": "احکامات تے رسومات لئی {ISSUES} تے {PULLS} دے ذریعے ساڈے ریپوزیٹری وچ۔",
+    "bulletSuggestIssues": "مسائل",
+    "bulletSuggestPulls": "پُل ریکویسٹ"
+  },
+  "resources": {
+    "title": "وسائل",
+    "subtitle": "ایتھے مفید مواد تے لنکس نیں۔",
+    "mainMaterialsTitle": "اہم مواد",
+    "githubRepo": "گٹ ہب ریپوزیٹری",
+    "videoPresentation": "ویڈیو پریزنٹیشن",
+    "recommendedLiteratureTitle": "سفارش کردہ لٹریچر",
+    "recommendedPlaceholder": "کتاباں تے مواد دی لسٹ کمیونٹی دے ذریعے شامل کیتی جاوے گی۔"
+  },
+  "notFound": {
+    "title": "صفحہ نہیں لبھیا",
+    "description": "لگدا اے ایہہ صفحہ ہن تک ساڈی علم دی کائنات وچ موجود نہیں ہویا۔",
+    "backHome": "گھر واپس جاو"
+  }
+}
