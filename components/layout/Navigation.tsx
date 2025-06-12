@@ -5,10 +5,12 @@ import { usePathname, useParams } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { useState, useEffect } from "react";
 import { Translations, NavigationItem } from "@/lib/translations";
+import LanguageSwitcher from "@/components/ui/LanguageSwitcher";
 
 interface NavigationProps {
   translations: Translations;
   navigationItems: NavigationItem[];
+  availableLocales?: string[];
 }
 
 const HamburgerIcon = ({ isOpen }: { isOpen: boolean }) => (
@@ -46,6 +48,7 @@ const HamburgerIcon = ({ isOpen }: { isOpen: boolean }) => (
 export default function Navigation({
   translations,
   navigationItems,
+  availableLocales = [],
 }: NavigationProps) {
   const pathname = usePathname();
   const params = useParams() as { locale?: string };
@@ -119,6 +122,15 @@ export default function Navigation({
                   </Link>
                 );
               })}
+              
+              {/* Language Switcher */}
+              {availableLocales.length > 1 && (
+                <LanguageSwitcher
+                  availableLocales={availableLocales}
+                  currentLocale={params?.locale as string || "en"}
+                  className="ml-2"
+                />
+              )}
             </nav>
 
             {/* Mobile Menu Button */}
@@ -175,6 +187,17 @@ export default function Navigation({
                     </Link>
                   );
                 })}
+                
+                {/* Mobile Language Switcher */}
+                {availableLocales.length > 1 && (
+                  <div className="pt-4 mt-4 border-t border-gray-700">
+                    <LanguageSwitcher
+                      availableLocales={availableLocales}
+                      currentLocale={params?.locale as string || "en"}
+                      className="px-4"
+                    />
+                  </div>
+                )}
               </nav>
             </motion.div>
           </motion.div>

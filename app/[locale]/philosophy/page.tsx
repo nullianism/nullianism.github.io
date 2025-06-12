@@ -1,7 +1,6 @@
-import Navigation from "@/components/layout/Navigation";
-import Footer from "@/components/layout/Footer";
 import { getMarkdownContent } from "@/lib/markdown";
 import { getLocalizedData } from "@/lib/translations";
+import PageLayout from "@/components/layout/PageLayout";
 
 interface Props {
   params: Promise<{ locale: string }>;
@@ -13,11 +12,10 @@ export default async function PhilosophyPage({ params }: Props) {
   const { contentHtml } = await getMarkdownContent("PHILOSOPHY.md", locale);
 
   return (
-    <>
-      <Navigation
-        translations={translations}
-        navigationItems={navigationItems}
-      />
+    <PageLayout
+      translations={translations}
+      navigationItems={navigationItems}
+    >
       <main className="pt-32 pb-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div
@@ -26,7 +24,6 @@ export default async function PhilosophyPage({ params }: Props) {
           />
         </div>
       </main>
-      <Footer translations={translations} navigationItems={navigationItems} />
-    </>
+    </PageLayout>
   );
 }

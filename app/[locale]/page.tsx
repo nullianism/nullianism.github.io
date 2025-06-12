@@ -1,7 +1,6 @@
-import { Footer } from "@/components/layout";
-import Navigation from "@/components/layout/Navigation";
 import Hero from "@/components/features/Hero";
 import { getLocalizedData } from "@/lib/translations";
+import PageLayout from "@/components/layout/PageLayout";
 
 export default async function Home({
   params,
@@ -13,14 +12,14 @@ export default async function Home({
 
   return (
     <div className="min-h-screen relative">
-      <Navigation
+      <PageLayout
         translations={translations}
         navigationItems={navigationItems}
-      />
-      <main className="pt-16">
-        <Hero translations={translations} />
-      </main>
-      <Footer translations={translations} navigationItems={navigationItems} />
+      >
+        <main className="pt-16">
+          <Hero translations={translations} />
+        </main>
+      </PageLayout>
     </div>
   );
 }

@@ -1,7 +1,6 @@
-import Navigation from "@/components/layout/Navigation";
-import Footer from "@/components/layout/Footer";
 import { SOCIAL_LINKS } from "@/lib/constants";
 import { getLocalizedData } from "@/lib/translations";
+import PageLayout from "@/components/layout/PageLayout";
 
 interface Props {
   params: Promise<{ locale: string }>;
@@ -12,11 +11,10 @@ export default async function ResourcesPage({ params }: Props) {
   const { translations, navigationItems } = await getLocalizedData(locale);
 
   return (
-    <>
-      <Navigation
-        translations={translations}
-        navigationItems={navigationItems}
-      />
+    <PageLayout
+      translations={translations}
+      navigationItems={navigationItems}
+    >
       <main className="pt-32 pb-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-5xl font-bold mb-12 text-center">
@@ -64,7 +62,6 @@ export default async function ResourcesPage({ params }: Props) {
           </div>
         </div>
       </main>
-      <Footer translations={translations} navigationItems={navigationItems} />
-    </>
+    </PageLayout>
   );
 }
