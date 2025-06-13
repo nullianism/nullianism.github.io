@@ -15,12 +15,12 @@
 
 * {
   box-sizing: border-box;
-  padding: 0;
-  margin: 0;
 }
 
 html {
   scroll-behavior: smooth;
+  /* ensure anchored content is not hidden under fixed header */
+  scroll-padding-top: 4rem;
 }
 
 body {
@@ -204,6 +204,10 @@ body::after {
   --tw-prose-quotes: #d1d5db;
   --tw-prose-quote-borders: #8b5cf6;
   --tw-prose-code: #c4b5fd;
+}
+/* Fix for anchor links: prevent headings from being hidden under fixed header */
+h1, h2, h3, h4, h5, h6 {
+  scroll-margin-top: 4rem;
 }
 
 /* Card hover effect */
