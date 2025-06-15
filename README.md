@@ -8,7 +8,7 @@
 
 ```bash
 # Перейти в директорию проекта
-cd /Users/aleksandrbobrov/Developer/personal/nullianism/nullianism.github.io
+cd path/to/nullianism.github.io
 
 # Установить зависимости (если еще не установлены)
 npm install
