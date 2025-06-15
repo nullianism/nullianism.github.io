@@ -17,17 +17,18 @@ async function syncContent() {
   // Ensure target directory exists
   await fs.ensureDir(targetDir);
   
-  // Copy each content file
+  // Copy each content file, exiting early if any are missing
   for (const file of contentFiles) {
     const source = path.join(sourceDir, file);
     const target = path.join(targetDir, file);
-    
-    if (await fs.pathExists(source)) {
-      await fs.copy(source, target);
-      console.log(`✓ Copied ${file}`);
-    } else {
+
+    if (!(await fs.pathExists(source))) {
       console.log(`✗ ${file} not found in source`);
+      process.exit(1);
     }
+
+    await fs.copy(source, target);
+    console.log(`✓ Copied ${file}`);
   }
   
   console.log('\n✨ Content sync completed!');
